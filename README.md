@@ -5,7 +5,7 @@ A curated list of awesome HD map construction methods. Inspired by [awesome-self
 Please help contribute this list by creating an issue or adding pull request.
 Markdown format:
 ```markdown
-- *[Model Name]* Paper Name. 
+- [Model Name] Paper Name. 
   [[pdf]](link) 
   [[code]](link)
   - Author 1, Author 2, and Author 3. *Conference Year*
