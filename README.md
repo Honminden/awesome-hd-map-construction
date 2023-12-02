@@ -24,18 +24,20 @@ Markdown format:
 ## Survey
 -   High-definition map generation technologies for autonomous driving: a review.
     [[pdf]](https://arxiv.org/ftp/arxiv/papers/2206/2206.05400.pdf)
-    -   Bao, Zhibin, Sabir Hossain, Haoxiang Lang, and Xianke Lin. *arXiv 2022*
+    -   Bao, Zhibin and Hossain, Sabir and Lang, Haoxiang and Lin, Xianke. *arXiv 2022*
  
 -   High-definition maps: Comprehensive survey, challenges and future perspectives.
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10184094)
-    -   Elghazaly, Gamal, Raphaël Frank, Scott Harvey, and Stefan Safko. *IEEE Open Journal of Intelligent Transportation Systems 2023*
+    -   Elghazaly, Gamal and Frank, Raphaël and Harvey, Scott and Safko, Stefan. *IEEE Open Journal of Intelligent Transportation Systems 2023*
 
 ## Online HD map construction
+### 2021
 -   [HDMapNet] Hdmapnet: An online hd map construction and evaluation framework.
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/9812383)
     [[code]](https://github.com/Tsinghua-MARS-Lab/HDMapNet)
-    -   Li, Qi, Yue Wang, Yilun Wang, and Hang Zhao. *ICRA 2022*
+    -   Li, Qi and Wang, Yue and Wang, Yilun and Zhao, Hang. *ICRA 2022*
 
+### 2022
 -   [VectorMapNet] VectorMapNet: End-to-end Vectorized HD Map Learning.
     [[pdf]](https://proceedings.mlr.press/v202/liu23ax/liu23ax.pdf)
     [[code]](https://github.com/Mrmoore98/VectorMapNet_code)
@@ -49,25 +51,70 @@ Markdown format:
 -   [SuperFusion] SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation.
     [[pdf]](https://arxiv.org/pdf/2211.15656.pdf)
     [[code]](https://github.com/haomo-ai/SuperFusion)
-    -   Hao Dong and Xianjing Zhang and Jintao Xu and Rui Ai and Weihao Gu and Huimin Lu and Juho Kannala and Xieyuanli Chen. *arXiv 2022*
+    -   Dong, Hao and Zhang, Xianjing and Xu, Jintao and Ai, Rui and Gu, Weihao and Lu, Huimin and Kannala, Juho and Chen, Xieyuanli. *arXiv 2022*
 
+### 2023
 -   [InstaGraM] InstaGraM: Instance-level Graph Modeling for Vectorized HD Map Learning.
     [[pdf]](https://arxiv.org/pdf/2301.04470.pdf)
-    -   Shin, Juyeb, Francois Rameau, Hyeonjun Jeong, and Dongsuk Kum. *arXiv 2023*
+    -   Shin, Juyeb and Rameau, Francois and Jeong, Hyeonjun and Kum, Dongsuk. *arXiv 2023*
 
 -   [NMP] Neural Map Prior for Autonomous Driving.
     [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiong_Neural_Map_Prior_for_Autonomous_Driving_CVPR_2023_paper.pdf)
     -   Xiong, Xuan and Liu, Yicheng and Yuan, Tianyuan and Wang, Yue and Wang, Yilun and Zhao, Hang. *CVPR 2023*
 
+-   [MapSeg] MapSeg: Segmentation guided structured model for online HD map construction.
+    [[pdf]](https://arxiv.org/pdf/2311.02503.pdf)
+    -   Jiang, Mingchao and Cheng, Yin and Liu, Linghai. *arXiv 2023*
+
+-   [BeMapNet] End-to-End Vectorized HD-Map Construction With Piecewise Bezier Curve.
+    [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Qiao_End-to-End_Vectorized_HD-Map_Construction_With_Piecewise_Bezier_Curve_CVPR_2023_paper.pdf)
+    [[code]](https://github.com/er-muyue/BeMapNet)
+    -   Qiao, Limeng and Ding, Wenjie and Qiu, Xi and Zhang, Chi. *CVPR 2023*
+
+-   [MachMap] MachMap: End-to-End Vectorized Solution for Compact HD-Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2306.10301.pdf)
+    -   Qiao, Limeng and Zheng, Yongchao and Zhang, Peng and Ding, Wenjie and Qiu, Xi and Wei, Xing and Zhang, Chi. *arXiv 2023*
+
+-   [MapVR] Online Map Vectorization for Autonomous Driving: A Rasterization Perspective.
+    [[pdf]](https://arxiv.org/pdf/2306.10502.pdf)
+    -   Zhang, Gongjie and Lin, Jiahao and Wu, Shuang and Song, Yilin and Luo, Zhipeng and Xue, Yang and Lu, Shijian and Wang, Zuoguan. *NeurIPS 2023*
+
+-   [MapTRv2] MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2308.05736.pdf)
+    [[code]](https://github.com/hustvl/MapTR)
+    -   Liao, Bencheng and Chen, Shaoyu and Zhang, Yunchi and Jiang, Bo and Zhang, Qian and Liu, Wenyu and Huang, Chang and Wang, Xinggang. *arXiv 2023*
+
+-   [InsightMapper] InsightMapper: A Closer Look at Inner-instance Information for Vectorized High-Definition Mapping.
+    [[pdf]](https://arxiv.org/pdf/2308.08543.pdf)
+    -   Xu, Zhenhua and Wong, Kenneth KY and Zhao, Hengshuang. *arXiv 2023*
+
+-   [StreamMapNet] Streammapnet: Streaming mapping network for vectorized online hd map construction.
+    [[pdf]](https://arxiv.org/pdf/2308.12570.pdf)
+    [[code]](https://github.com/yuantianyuan01/StreamMapNet)
+    -   Yuan, Tianyuan and Liu, Yicheng and Wang, Yue and Wang, Yilun and Zhao, Hang. *WACV 2024*
+
+-   [SatforHDMap] Complementing Onboard Sensors with Satellite Map: A New Perspective for HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2308.15427.pdf)
+    [[code]](https://github.com/xjtu-cs-gao/SatforHDMap)
+    -   Gao, Wenjie and Fu, Jiawei and Jing, Haodong and Zheng, Nanning. *arXiv 2023*
+
+-   [PivotNet] PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction.
+    [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ding_PivotNet_Vectorized_Pivot_Learning_for_End-to-end_HD_Map_Construction_ICCV_2023_paper.pdf)
+    -   Ding, Wenjie and Qiao, Limeng and Qiu, Xi and Zhang, Chi. *ICCV 2023*
+
+-   [MapEX] Mind the map! Accounting for existing map information when estimating online HDMaps from sensor data.
+    [[pdf]](https://arxiv.org/pdf/2311.10517.pdf)
+    -   Sun, Rémy and Yang, Li and Lingrand, Diane and Precioso, Frédéric. *arXiv 2023*
+
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26848)
-    -   Tang, K., Cao, X., Cao, Z., Zhou, T., Li, E., Liu, A., Zou, S., Liu, C., Mei, S., Sizikova, E., & Zheng, C. *AAAI 2023*
+    -  Tang, Kun and Cao, Xu and Cao, Zhipeng and Zhou, Tong and Li, Erlong and Liu, Ao and Zou, Shengtao and Liu, Chang and Mei, Shuqi and Sizikova, Elena and others. *AAAI 2023*
 
 -   [VMA] VMA: Divide-and-Conquer Vectorized Map Annotation System for Large-Scale Driving Scene.
     [[pdf]](https://arxiv.org/pdf/2304.09807.pdf)
     [[code]](https://github.com/hustvl/VMA)
-    -   Chen, Shaoyu, Yunchi Zhang, Bencheng Liao, Jiafeng Xie, Tianheng Cheng, Wei Sui, Qian Zhang, Chang Huang, Wenyu Liu, and Xinggang Wang. *arXiv 2023*
+    -   Chen, Shaoyu and Zhang, Yunchi and Liao, Bencheng and Xie, Jiafeng and Cheng, Tianheng and Sui, Wei and Zhang, Qian and Huang, Chang and Liu, Wenyu and Wang, Xinggang. *arXiv 2023*
 
 ## Lane detection
 -   [3D-LaneNet] 3D-LaneNet: End-to-End 3D Multiple Lane Detection.
@@ -77,7 +124,7 @@ Markdown format:
 -   [Gen-LaneNet] Gen-lanenet: A generalized and scalable approach for 3d lane detection.
     [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660664.pdf)
     [[code]](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection)
-    -   Yuliang Guo, Guang Chen, Peitao Zhao, Weide Zhang, Jinghao Miao, Jingao Wang, and Tae Eun Choe. *ECCV 2020*
+    -   Guo, Yuliang and Chen, Guang and Zhao, Peitao and Zhang, Weide and Miao, Jinghao and Wang, Jingao and Choe, Tae Eun. *ECCV 2020*
 
 -   [STSU] Structured Bird's-Eye-View Traffic Scene Understanding From Onboard Images.
     [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Can_Structured_Birds-Eye-View_Traffic_Scene_Understanding_From_Onboard_Images_ICCV_2021_paper.pdf)
@@ -85,9 +132,17 @@ Markdown format:
     -   Can, Yigit Baran and Liniger, Alexander and Paudel, Danda Pani and Van Gool, Luc. *ICCV 2021*
 
 ## Misc
+-   [MapLite 2.0] MapLite 2.0: Online HD Map Inference Using a Prior SD Map.
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/9807400)
+    -   Ort, Teddy and Walls, Jeffrey M. and Parkison, Steven A. and Gilitschenski, Igor and Rus, Daniela. *IEEE Robotics and Automation Letters 2022*
+
 -   [V2HDM-Mono] V2HDM-Mono: A Framework of Building a Marking-Level HD Map with One or More Monocular Cameras.
     [[pdf]](https://arxiv.org/pdf/2209.07737.pdf)
-    -   Liu, Hongji, Linwei Zheng, Xiaoyang Yan, Zhenhua Xu, Bohuan Xue, Yang Yu, and Ming Liu. *arXiv 2022*
+    -   Liu, Hongji and Zheng, Linwei and Yan, Xiaoyang and Xu, Zhenhua and Xue, Bohuan and Yu, Yang and Liu, Ming. *arXiv 2022*
+
+-   Clothoid-Based Reference Path Reconstruction for HD Map Generation.
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/10229966)
+    -   Zhang, Songyi and Wang, Runsheng and Jian, Zhiqiang and Zhan, Wei and Zheng, Nanning and Tomizuka, Masayoshi. *IEEE Transactions on Intelligent Transportation Systems 2023*
 
 ## News
 
