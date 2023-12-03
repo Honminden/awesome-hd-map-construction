@@ -62,6 +62,11 @@ Markdown format:
     [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiong_Neural_Map_Prior_for_Autonomous_Driving_CVPR_2023_paper.pdf)
     -   Xiong, Xuan and Liu, Yicheng and Yuan, Tianyuan and Wang, Yue and Wang, Yilun and Zhao, Hang. *CVPR 2023*
 
+-   [MV-Map] MV-Map: Offboard HD-Map Generation with Multi-view Consistency.
+    [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Qiao_End-to-End_Vectorized_HD-Map_Construction_With_Piecewise_Bezier_Curve_CVPR_2023_paper.pdf)
+    [[code]](https://github.com/ZiYang-xie/MV-Map)
+    -   Xie, Ziyang and Pang, Ziqi and Wang, Yu-Xiong. *ICCV 2023*
+
 -   [MapSeg] MapSeg: Segmentation guided structured model for online HD map construction.
     [[pdf]](https://arxiv.org/pdf/2311.02503.pdf)
     -   Jiang, Mingchao and Cheng, Yin and Liu, Linghai. *arXiv 2023*
@@ -101,6 +106,11 @@ Markdown format:
 -   [PivotNet] PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction.
     [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ding_PivotNet_Vectorized_Pivot_Learning_for_End-to-end_HD_Map_Construction_ICCV_2023_paper.pdf)
     -   Ding, Wenjie and Qiao, Limeng and Qiu, Xi and Zhang, Chi. *ICCV 2023*
+
+-   [ScalableMap] ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2310.13378.pdf)
+    [[code]](https://github.com/jingy1yu/ScalableMap)
+    -   Yu, Jingyi and Zhang, Zizhao and Xia, Shengfu and Sang, Jizhang. *CoRL 2023*
 
 -   [MapEX] Mind the map! Accounting for existing map information when estimating online HDMaps from sensor data.
     [[pdf]](https://arxiv.org/pdf/2311.10517.pdf)
