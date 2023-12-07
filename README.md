@@ -116,6 +116,11 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2311.10517.pdf)
     -   Sun, Rémy and Yang, Li and Lingrand, Diane and Precioso, Frédéric. *arXiv 2023*
 
+-   [GeMap] Online Vectorized HD Map Construction using Geometry.
+    [[pdf]](https://arxiv.org/pdf/2312.03341.pdf)
+    [[code]](https://github.com/cnzzx/GeMap)
+    -   Zhixin Zhang and Yiyuan Zhang and Xiaohan Ding and Fusheng Jin and Xiangyu Yue. *arXiv 2023*
+
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26848)
