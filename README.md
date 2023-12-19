@@ -63,7 +63,7 @@ Markdown format:
     -   Xiong, Xuan and Liu, Yicheng and Yuan, Tianyuan and Wang, Yue and Wang, Yilun and Zhao, Hang. *CVPR 2023*
 
 -   [MV-Map] MV-Map: Offboard HD-Map Generation with Multi-view Consistency.
-    [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Qiao_End-to-End_Vectorized_HD-Map_Construction_With_Piecewise_Bezier_Curve_CVPR_2023_paper.pdf)
+    [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_MV-Map_Offboard_HD-Map_Generation_with_Multi-view_Consistency_ICCV_2023_paper.pdf)
     [[code]](https://github.com/ZiYang-xie/MV-Map)
     -   Xie, Ziyang and Pang, Ziqi and Wang, Yu-Xiong. *ICCV 2023*
 
