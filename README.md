@@ -121,6 +121,15 @@ Markdown format:
     [[code]](https://github.com/cnzzx/GeMap)
     -   Zhixin Zhang and Yiyuan Zhang and Xiaohan Ding and Fusheng Jin and Xiangyu Yue. *arXiv 2023*
 
+### 2024
+-   [MapNeXt] MapNeXt: Revisiting Training and Scaling Practices for Online Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2401.07323.pdf)
+    -   Li, Toyota. *arXiv 2024*
+  
+-   [SQD-MapNet] Stream Query Denoising for Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2401.09112.pdf)
+    -   Wang, Shuo and Jia, Fan and Liu, Yingfei and Zhao, Yucheng and Chen, Zehui and Wang, Tiancai and Zhang, Chi and Zhang, Xiangyu and Zhao, Feng. *arXiv 2024*
+
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26848)
