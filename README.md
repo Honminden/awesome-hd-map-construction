@@ -130,6 +130,11 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2401.09112.pdf)
     -   Wang, Shuo and Jia, Fan and Liu, Yingfei and Zhao, Yucheng and Chen, Zehui and Wang, Tiancai and Zhang, Chi and Zhang, Xiangyu and Zhao, Feng. *arXiv 2024*
 
+-   [ADMap] ADMap: Anti-disturbance framework for reconstructing online vectorized HD map.
+    [[pdf]](https://arxiv.org/pdf/2401.13172.pdf)
+    [[code]](https://github.com/hht1996ok/ADMap)
+    -   Hu, Haotian and Wang, Fanyi and Wang, Yaonong and Hu, Laifeng and Xu, Jingwei and Zhang, Zhiwang. *arXiv 2023*
+
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26848)
