@@ -76,6 +76,11 @@ Markdown format:
     [[code]](https://github.com/er-muyue/BeMapNet)
     -   Qiao, Limeng and Ding, Wenjie and Qiu, Xi and Zhang, Chi. *CVPR 2023*
 
+-   [PolyDiffuse] PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Models.
+    [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/05f0e2fa003602db2d98ca72b79dec51-Paper-Conference.pdf)
+    [[code]](https://github.com/woodfrog/poly-diffuse)
+    -   Chen, Jiacheng and Deng, Ruizhi and Furukawa, Yasutaka. *NeurIPS 2023*
+
 -   [MachMap] MachMap: End-to-End Vectorized Solution for Compact HD-Map Construction.
     [[pdf]](https://arxiv.org/pdf/2306.10301.pdf)
     -   Qiao, Limeng and Zheng, Yongchao and Zhang, Peng and Ding, Wenjie and Qiu, Xi and Wei, Xing and Zhang, Chi. *arXiv 2023*
@@ -134,6 +139,14 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2401.13172.pdf)
     [[code]](https://github.com/hht1996ok/ADMap)
     -   Hu, Haotian and Wang, Fanyi and Wang, Yaonong and Hu, Laifeng and Xu, Jingwei and Zhang, Zhiwang. *arXiv 2024*
+
+-   [MapQR] Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2402.17430.pdf)
+    -   Liu, Zihao and Zhang, Xiaoyu and Liu, Guangwei and Zhao, Ji and Xu, Ningyi. *arXiv 2024*
+
+-   [EAN-MapNet] EAN-MapNet: Efficient Vectorized HD Map Construction with Anchor Neighborhoods.
+    [[pdf]](https://arxiv.org/pdf/2402.18278.pdf)
+    -   Xiong, Huiyuan and Shen, Jun and Zhu, Taohong and Pan, Yuelong. *arXiv 2024*
 
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
