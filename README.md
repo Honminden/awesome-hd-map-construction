@@ -29,6 +29,10 @@ Markdown format:
 -   High-definition maps: Comprehensive survey, challenges and future perspectives.
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10184094)
     -   Elghazaly, Gamal and Frank, Raphaël and Harvey, Scott and Safko, Stefan. *IEEE Open Journal of Intelligent Transportation Systems 2023*
+ 
+-   High-Definition Maps Construction Based on Visual Sensor: A Comprehensive Survey
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/10336514)
+    -   Tang, Xuewei and Jiang, Kun and Yang, Mengmeng and Liu, Zhaoyang and Jia, Peijin and Wijaya, Benny and Wen, Tuopu and Cui, Le and Yang, Diange. *IEEE Transactions on Intelligent Vehicles 2023*
 
 ## Online HD map construction
 ### 2021
