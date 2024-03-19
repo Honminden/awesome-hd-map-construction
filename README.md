@@ -154,7 +154,7 @@ Markdown format:
 
 -   [HIMap] HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction.
     [[pdf]](https://arxiv.org/pdf/2403.08639.pdf)
-    -   Zhou, Yi and Zhang, Hui and Yu, Jiaqian and Yang, Yifan and Jung, Sangil and Park, Seung-In and Yoo, ByungIn. *arXiv 2024*
+    -   Zhou, Yi and Zhang, Hui and Yu, Jiaqian and Yang, Yifan and Jung, Sangil and Park, Seung-In and Yoo, ByungIn. *CVPR 2024*
 
 -   [PreSight] PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors.
     [[pdf]](https://arxiv.org/pdf/2403.09079.pdf)
