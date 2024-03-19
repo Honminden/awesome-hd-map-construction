@@ -160,6 +160,10 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2403.09079.pdf)
     -   Yuan, Tianyuan and Mao, Yucheng and Yang, Jiawei and Liu, Yicheng and Wang, Yue and Zhao, Hang. *arXiv 2024*
 
+-   [Buffered Gaussian Modeling] Buffered Gaussian Modeling for Vectorized HD Map Construction.
+    [[pdf]](https://ieeexplore.ieee.org/document/10445925)
+    -   Shi, Anqi and Chen, Huaqiu and Lu, Hong and Zhang, Rui. *ICASSP 2024*
+
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26848)
