@@ -152,6 +152,14 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2402.18278.pdf)
     -   Xiong, Huiyuan and Shen, Jun and Zhu, Taohong and Pan, Yuelong. *arXiv 2024*
 
+-   [HIMap] HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2403.08639.pdf)
+    -   Zhou, Yi and Zhang, Hui and Yu, Jiaqian and Yang, Yifan and Jung, Sangil and Park, Seung-In and Yoo, ByungIn. *arXiv 2024*
+
+-   [PreSight] PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors.
+    [[pdf]](https://arxiv.org/pdf/2403.09079.pdf)
+    -   Yuan, Tianyuan and Mao, Yucheng and Yang, Jiawei and Liu, Yicheng and Wang, Yue and Zhao, Hang. *arXiv 2024*
+
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26848)
