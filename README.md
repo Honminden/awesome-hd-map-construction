@@ -202,6 +202,11 @@ Markdown format:
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10229966)
     -   Zhang, Songyi and Wang, Runsheng and Jian, Zhiqiang and Zhan, Wei and Zheng, Nanning and Tomizuka, Masayoshi. *IEEE Transactions on Intelligent Transportation Systems 2023*
 
+-   [MIM4D] MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning
+    [[pdf]](https://arxiv.org/pdf/2403.08760.pdf)
+    [[code]](https://github.com/hustvl/MIM4D)
+    -   Zou, Jialv and Liao, Bencheng and Zhang, Qian and Liu, Wenyu and Wang, Xinggang. *arXiv 2024*
+
 ## News
 
 ## Talks
