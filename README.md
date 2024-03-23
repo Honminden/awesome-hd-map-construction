@@ -174,6 +174,10 @@ Markdown format:
     [[code]](https://github.com/hustvl/VMA)
     -   Chen, Shaoyu and Zhang, Yunchi and Liao, Bencheng and Xie, Jiafeng and Cheng, Tianheng and Sui, Wei and Zhang, Qian and Huang, Chang and Liu, Wenyu and Wang, Xinggang. *arXiv 2023*
 
+-   Open HD map service model: an interoperable high-Definition map data model for autonomous driving.
+    [[pdf]](https://www.tandfonline.com/doi/full/10.1080/17538947.2023.2220615)
+    -  Zhang, Fengyuan and Shi, Wenzhong and Chen, Min and Huang, Wei and Liu, Xintao. *International Journal of Digital Earth 2023*
+
 ## Lane detection
 -   [3D-LaneNet] 3D-LaneNet: End-to-End 3D Multiple Lane Detection.
     [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Garnett_3D-LaneNet_End-to-End_3D_Multiple_Lane_Detection_ICCV_2019_paper.pdf)
