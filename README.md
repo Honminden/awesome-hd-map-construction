@@ -164,6 +164,10 @@ Markdown format:
     [[pdf]](https://ieeexplore.ieee.org/document/10445925)
     -   Shi, Anqi and Chen, Huaqiu and Lu, Hong and Zhang, Rui. *ICASSP 2024*
 
+-   [MapTracker] MapTracker: Tracking with Strided Memory Fusion for Consistent Vector HD Mapping.
+    [[pdf]](https://arxiv.org/pdf/2403.15951.pdf)
+    -   Chen, Jiacheng and Wu, Yuefan and Tan, Jiaqi and Ma, Hang and Furukawa, Yasutaka. *arXiv 2024*
+
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26848)
