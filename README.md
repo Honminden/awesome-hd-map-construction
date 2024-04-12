@@ -168,6 +168,10 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2403.15951.pdf)
     -   Chen, Jiacheng and Wu, Yuefan and Tan, Jiaqi and Ma, Hang and Furukawa, Yasutaka. *arXiv 2024*
 
+-   [MGMap] MGMap: Mask-Guided Learning for Online Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2404.00876.pdf)
+    -   Liu, Xiaolu and Wang, Song and Li, Wentong and Yang, Ruizi and Chen, Junbo and Zhu, Jianke. *arXiv 2024*
+
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26848)
