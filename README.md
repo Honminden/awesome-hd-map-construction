@@ -166,6 +166,7 @@ Markdown format:
 
 -   [MapTracker] MapTracker: Tracking with Strided Memory Fusion for Consistent Vector HD Mapping.
     [[pdf]](https://arxiv.org/pdf/2403.15951.pdf)
+    [[code]](https://github.com/woodfrog/maptracker)
     -   Chen, Jiacheng and Wu, Yuefan and Tan, Jiaqi and Ma, Hang and Furukawa, Yasutaka. *arXiv 2024*
 
 -   [MGMap] MGMap: Mask-Guided Learning for Online Vectorized HD Map Construction.
