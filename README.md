@@ -173,6 +173,10 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2404.00876.pdf)
     -   Liu, Xiaolu and Wang, Song and Li, Wentong and Yang, Ruizi and Chen, Junbo and Zhu, Jianke. *arXiv 2024*
 
+-   [SparseAD] SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving.
+    [[pdf]](https://arxiv.org/pdf/2404.06892.pdf)
+    -   Zhang, Diankun and Wang, Guoan and Zhu, Runwen and Zhao, Jianbo and Chen, Xiwu and Zhang, Siyu and Gong, Jiahao and Zhou, Qibin and Zhang, Wenyuan and Wang, Ningzi and others. *arXiv 2024*
+
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26848)
