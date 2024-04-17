@@ -160,6 +160,11 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2403.09079.pdf)
     -   Yuan, Tianyuan and Mao, Yucheng and Yang, Jiawei and Liu, Yicheng and Wang, Yue and Zhao, Hang. *arXiv 2024*
 
+-   [P-MapNet] P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors.
+    [[pdf]](https://arxiv.org/pdf/2403.10521.pdf)
+    [[code]](https://github.com/jike5/P-MapNet)
+    -   Jiang, Zhou and Zhu, Zhenxin and Li, Pengfei and Gao, Huan-ang and Yuan, Tianyuan and Shi, Yongliang and Zhao, Hang and Zhao, Hao. *arXiv 2024*
+
 -   [Buffered Gaussian Modeling] Buffered Gaussian Modeling for Vectorized HD Map Construction.
     [[pdf]](https://ieeexplore.ieee.org/document/10445925)
     -   Shi, Anqi and Chen, Huaqiu and Lu, Hong and Zhang, Rui. *ICASSP 2024*
