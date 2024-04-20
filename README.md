@@ -196,6 +196,15 @@ Markdown format:
     [[pdf]](https://www.tandfonline.com/doi/full/10.1080/17538947.2023.2220615)
     -  Zhang, Fengyuan and Shi, Wenzhong and Chen, Min and Huang, Wei and Liu, Xintao. *International Journal of Digital Earth 2023*
 
+-   Multi-LiDAR Localization and Mapping Pipeline for Urban Autonomous Driving.
+    [[pdf]](https://arxiv.org/pdf/2311.01823.pdf)
+    -   Sauerbeck, Florian and Kulmer, Dominik and Pielmeier, Markus and Leitenstern, Maximilian and Wei{\ss}, Christoph and Betz, Johannes. 2023 IEEE SENSORS*
+
+-   [FlexMap Fusion] FlexMap Fusion: Georeferencing and Automated Conflation of HD Maps with OpenStreetMap.
+    [[pdf]](https://arxiv.org/pdf/2404.11155.pdf)
+    [[code]](https://github.com/TUMFTM/FlexMap_Fusion)
+    -   Leitenstern, Maximilian and Sauerbeck, Florian and Kulmer, Dominik and Betz, Johannes. *arXiv 2024*
+
 ## Lane detection
 -   [3D-LaneNet] 3D-LaneNet: End-to-End 3D Multiple Lane Detection.
     [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Garnett_3D-LaneNet_End-to-End_3D_Multiple_Lane_Detection_ICCV_2019_paper.pdf)
