@@ -182,6 +182,10 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2404.06892.pdf)
     -   Zhang, Diankun and Wang, Guoan and Zhu, Runwen and Zhao, Jianbo and Chen, Xiwu and Zhang, Siyu and Gong, Jiahao and Zhou, Qibin and Zhang, Wenyuan and Wang, Ningzi and others. *arXiv 2024*
 
+-   [HybriMap] HybriMap: Hybrid Clues Utilization for Effective Vectorized HD Map Constructio.
+    [[pdf]](https://arxiv.org/pdf/2404.11155.pdf)
+    -   Zhang, Chi and Song, Qi and Li, Feifei and Chen, Yongquan and Huang, Rui. *arXiv 2024*
+
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26848)
