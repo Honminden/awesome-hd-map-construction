@@ -91,6 +91,7 @@ Markdown format:
 
 -   [MapVR] Online Map Vectorization for Autonomous Driving: A Rasterization Perspective.
     [[pdf]](https://arxiv.org/pdf/2306.10502.pdf)
+    [[code]](https://github.com/ZhangGongjie/MapVR)
     -   Zhang, Gongjie and Lin, Jiahao and Wu, Shuang and Song, Yilin and Luo, Zhipeng and Xue, Yang and Lu, Shijian and Wang, Zuoguan. *NeurIPS 2023*
 
 -   [MapTRv2] MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction.
