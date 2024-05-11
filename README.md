@@ -85,6 +85,10 @@ Markdown format:
     [[code]](https://github.com/woodfrog/poly-diffuse)
     -   Chen, Jiacheng and Deng, Ruizhi and Furukawa, Yasutaka. *NeurIPS 2023*
 
+-   [NeMO] NeMO: Neural Map Growing System for Spatiotemporal Fusion in Bird's-Eye-View and BDD-Map Benchmark.
+    [[pdf]](https://arxiv.org/pdf/2306.04540)
+    -   Zhu, Xi and Cao, Xiya and Dong, Zhiwei and Zhou, Caifa and Liu, Qiangbo and Li, Wei and Wang, Yongliang. *arXiv 2023*
+
 -   [MachMap] MachMap: End-to-End Vectorized Solution for Compact HD-Map Construction.
     [[pdf]](https://arxiv.org/pdf/2306.10301.pdf)
     -   Qiao, Limeng and Zheng, Yongchao and Zhang, Peng and Ding, Wenjie and Qiu, Xi and Wei, Xing and Zhang, Chi. *arXiv 2023*
