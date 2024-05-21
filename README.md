@@ -187,9 +187,17 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2404.06892.pdf)
     -   Zhang, Diankun and Wang, Guoan and Zhu, Runwen and Zhao, Jianbo and Chen, Xiwu and Zhang, Siyu and Gong, Jiahao and Zhou, Qibin and Zhang, Wenyuan and Wang, Ningzi and others. *arXiv 2024*
 
--   [HybriMap] HybriMap: Hybrid Clues Utilization for Effective Vectorized HD Map Constructio.
+-   [HybriMap] HybriMap: Hybrid Clues Utilization for Effective Vectorized HD Map Construction.
     [[pdf]](https://arxiv.org/pdf/2404.11155.pdf)
     -   Zhang, Chi and Song, Qi and Li, Feifei and Chen, Yongquan and Huang, Rui. *arXiv 2024*
+
+-   [GNMap] Neural HD Map Generation from Multiple Vectorized Tiles Locally Produced by Autonomous Vehicles.
+    [[pdf]](https://link.springer.com/chapter/10.1007/978-981-97-2966-1_22)
+    -   Fan, Miao and Yao, Yi and Zhang, Jianping and Song, Xiangbo and Wu, Daihui. *SpatialDI 2024*
+
+-   [DTCLMapper] DTCLMapper: Dual Temporal Consistent Learning for Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2405.05518)
+    -   Li, Siyu and Lin, Jiacheng and Shi, Hao and Zhang, Jiaming and Wang, Song and Yao, You and Li, Zhiyong and Yang, Kailun. *arXiv 2024*
 
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
