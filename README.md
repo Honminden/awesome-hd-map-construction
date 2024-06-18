@@ -199,6 +199,10 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2405.05518)
     -   Li, Siyu and Lin, Jiacheng and Shi, Hao and Zhang, Jiaming and Wang, Song and Yao, You and Li, Zhiyong and Yang, Kailun. *arXiv 2024*
 
+-   [POP-Net] Camera-based Online Vectorized HD Map Construction with Incomplete Observation.
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/10542214)
+    -   Liu, Hui and Chang, Faliang and Liu, Chunsheng and Lu, Yansha and Liu, Minhang. * IEEE Robotics and Automation Letters 2024*
+
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26848)
