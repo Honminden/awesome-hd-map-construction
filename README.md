@@ -203,6 +203,14 @@ Markdown format:
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10542214)
     -   Liu, Hui and Chang, Faliang and Liu, Chunsheng and Lu, Yansha and Liu, Minhang. * IEEE Robotics and Automation Letters 2024*
 
+-   Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models.
+    [[pdf]](https://openaccess.thecvf.com/content/CVPR2024W/WAD/papers/Bateman_Exploring_Real_World_Map_Change_Generalization_of_Prior-Informed_HD_Map_CVPRW_2024_paper.pdf)
+    -   Bateman, Samuel M and Xu, Ning and Zhao, H Charles and Ben Shalom, Yael and Gong, Vince and Long, Greg and Maddern, Will. * CVPR 2024 Workshops*
+
+-   [MapVision] MapVision: CVPR 2024 Autonomous Grand Challenge Mapless Driving Tech Report.
+    [[pdf]](https://arxiv.org/pdf/2406.10125)
+    -   Yang, Zhongyu and Liu, Mai and Xie, Jinluo and Zhang, Yueming and Shen, Chen and Shao, Wei and Jiao, Jichao and Xing, Tengfei and Hu, Runbo and Xu, Pengfei. * arXiv 2024*
+
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26848)
