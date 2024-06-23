@@ -12,27 +12,95 @@ Markdown format:
 ```
 
 ## Table of Contents  
-- [Survey](#survey)
-- [Online HD map construction](#online-hd-map-construction)
-- [HD map construction with human efforts](#hd-map-construction-with-human-efforts)
-- [Lane detection](#lane-detection)  
-- [Misc](#misc)
-- [News](#news)
-- [Talks](#talks)
-- [Blog](#blog)
+- [awesome-hd-map-construction ](#awesome-hd-map-construction-)
+  - [Contributing](#contributing)
+  - [Table of Contents](#table-of-contents)
+  - [Survey](#survey)
+    - [2018](#2018)
+    - [2020](#2020)
+    - [2021](#2021)
+    - [2022](#2022)
+    - [2023](#2023)
+    - [2024](#2024)
+  - [Online HD map construction](#online-hd-map-construction)
+    - [2021](#2021-1)
+    - [2022](#2022-1)
+    - [2023](#2023-1)
+    - [2024](#2024-1)
+  - [HD map construction with human efforts](#hd-map-construction-with-human-efforts)
+  - [Lane detection](#lane-detection)
+  - [Misc](#misc)
+  - [News](#news)
+  - [Talks](#talks)
+  - [Blog](#blog)
+  - [License](#license)
 
 ## Survey
+### 2018
+-   Machine learning assisted high-definition map creation.
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/8377682)
+    -   Jiao, Jialin. *COMPSAC 2018*
+
+-   High definition maps in urban context.
+    [[pdf]](https://dl.acm.org/doi/abs/10.1145/3231541.3231546)
+    -   Zang, Andi and Chen, Xin and Trajcevski, Goce. *Sigspatial Special 2018*
+
+### 2020
+-   Creation of high definition map for autonomous driving.
+    [[pdf]](https://isprs-archives.copernicus.org/articles/XLIII-B4-2020/415/2020/isprs-archives-XLIII-B4-2020-415-2020.pdf)
+    -   Tsushima, F and Kishimoto, N and Okada, Y and Che, W. *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences 2020*
+
+-   High definition map for automated driving: Overview and analysis.
+    [[pdf]](https://www.cambridge.org/core/journals/journal-of-navigation/article/high-definition-map-for-automated-driving-overview-and-analysis/7FFB4F68B9C27F4312AF8DCD553205FE)
+    -   Liu, Rong and Wang, Jinling and Zhang, Bingqi. *The Journal of Navigation 2020*
+
+### 2021
+-   High-definition map update framework for intelligent autonomous transfer vehicles.
+    [[pdf]](https://www.tandfonline.com/doi/full/10.1080/0952813X.2020.1789754)
+    -   Tas, Muhammed Oguz and Yavuz, Hasan Serhan and Yazici, Ahmet. *Journal of Experimental & Theoretical Artificial Intelligence 2021*
+
+-   On Construction and Applications of High-Definition (HD) Maps.
+    [[pdf]](https://izenderi.github.io/pdfs/On_High_Definition__HD__Maps.pdf)
+    -   Zhu, Yuanjie and Alrashid, Hussah and Bai, Song and Zhang, Chunhan and Zhang, Ziliang and Qu, Zhengyi and Magdy, Amr. *personal website 2021*
+
+-   High-definition map creation and update for autonomous driving.
+    [[pdf]](https://www.diva-portal.org/smash/get/diva2:1578797/FULLTEXT01.pdf)
+    -   Xia, Wanru. *master thesis 2021*
+
+### 2022
+-   High definition map update for autonomous and connected vehicles: A survey.
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/9825276)
+    -   Boubakri, Anis and Gammar, Sonia METTALI and Brahim, Mohamed BEN and Filali, Fethi. *IWCMC 2022*
+
 -   High-definition map generation technologies for autonomous driving: a review.
     [[pdf]](https://arxiv.org/ftp/arxiv/papers/2206/2206.05400.pdf)
     -   Bao, Zhibin and Hossain, Sabir and Lang, Haoxiang and Lin, Xianke. *arXiv 2022*
- 
+
+### 2023
+-   A review of high-definition map creation methods for autonomous driving.
+    [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0952197623003093)
+    -   Bao, Zhibin and Hossain, Sabir and Lang, Haoxiang and Lin, Xianke. *Engineering Applications of Artificial Intelligence 2023*
+
 -   High-definition maps: Comprehensive survey, challenges and future perspectives.
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10184094)
     -   Elghazaly, Gamal and Frank, Raphaël and Harvey, Scott and Safko, Stefan. *IEEE Open Journal of Intelligent Transportation Systems 2023*
- 
+
 -   High-Definition Maps Construction Based on Visual Sensor: A Comprehensive Survey
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10336514)
     -   Tang, Xuewei and Jiang, Kun and Yang, Mengmeng and Liu, Zhaoyang and Jia, Peijin and Wijaya, Benny and Wen, Tuopu and Cui, Le and Yang, Diange. *IEEE Transactions on Intelligent Vehicles 2023*
+
+### 2024
+-   High precision map crowdsource update technology and SLAM technology-Application in autonomous driving
+    [[pdf]](https://www.mdpi.com/2220-9964/13/3/104)
+    -   Liu, Dapeng. *J. Phys.: Conf. Ser. 2024*
+
+-   A Review of Crowdsourcing Update Methods for High-Definition Maps
+    [[pdf]](https://www.mdpi.com/2220-9964/13/3/104)
+    -   Guo, Yuan and Zhou, Jian and Li, Xicheng and Tang, Youchen and Lv, Zhicheng. *ISPRS Int. J. Geo-Inf. 2024*
+
+-   On the Ecosystem of High-Definition (HD) Maps
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/10555117)
+    -   Zhuy, Yuanjie and Alrashid, Hussah and Bai, Song and Zhang, Chunhan and Zhang, Ziliang and Qu, Zhengyi and Ali, Reem Y and Magdy, Amr. *ICDEW 2024*
 
 ## Online HD map construction
 ### 2021
@@ -139,7 +207,7 @@ Markdown format:
 -   [MapNeXt] MapNeXt: Revisiting Training and Scaling Practices for Online Vectorized HD Map Construction.
     [[pdf]](https://arxiv.org/pdf/2401.07323.pdf)
     -   Li, Toyota. *arXiv 2024*
-  
+
 -   [SQD-MapNet] Stream Query Denoising for Vectorized HD Map Construction.
     [[pdf]](https://arxiv.org/pdf/2401.09112.pdf)
     -   Wang, Shuo and Jia, Fan and Liu, Yingfei and Zhao, Yucheng and Chen, Zehui and Wang, Tiancai and Zhang, Chi and Zhang, Xiangyu and Zhao, Feng. *arXiv 2024*
