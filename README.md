@@ -284,6 +284,20 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2406.10125)
     -   Yang, Zhongyu and Liu, Mai and Xie, Jinluo and Zhang, Yueming and Shen, Chen and Shao, Wei and Jiao, Jichao and Xing, Tengfei and Hu, Runbo and Xu, Pengfei. *arXiv 2024*
 
+-   [MapBench] Is Your HD Map Constructor Reliable under Sensor Corruptions?.
+    [[pdf]](https://mapbench.github.io/paper.pdf)
+    [[code]](https://github.com/mapbench/toolkit)
+    -   Hao, Xiaoshuai and Wei, Mengchuan and Yang, Yifan and Zhao, Haimei and Zhang, Hui and Zhou, Yi and Wang, Qiang and Li, Weiming and Kong, Lingdong and Zhang, Jing. *arXiv 2024*
+
+-   [LGmap] LGmap: Local-to-Global Mapping Network for Online Long-Range Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2406.13988)
+    -   Wu, Kuang and Nian, Sulei and Shen, Can and Yang, Chuan and Li, Zhanbin. *arXiv 2024*
+
+-   [MapBEVPrediction] Accelerating Online Mapping and Behavior Prediction via Direct BEV Feature Attention.
+    [[pdf]](https://arxiv.org/pdf/2407.06683)
+    [[code]](https://github.com/alfredgu001324/MapBEVPrediction)
+    -   Gu, Xunjiang and Song, Guanyu and Gilitschenski, Igor and Pavone, Marco and Ivanovic, Boris. *arXiv 2024*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
