@@ -298,6 +298,38 @@ Markdown format:
     [[code]](https://github.com/alfredgu001324/MapBEVPrediction)
     -   Gu, Xunjiang and Song, Guanyu and Gilitschenski, Igor and Pavone, Marco and Ivanovic, Boris. *arXiv 2024*
 
+-   [Mask2Map] Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks.
+    [[pdf]](https://arxiv.org/pdf/2407.13517)
+    -   Choi, Sehwan and Kim, Jungho and Shin, Hongjae and Choi, Jun Won. *arXiv 2024*
+
+-   [LaneDAG] LaneDAG: Automatic HD Map Topology Generator Based on Geometry and Attention Fusion Mechanism.
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/10588515)
+    -   Jia, Peijin and Wen, Tuopu and Luo, Ziang and Fu, Zheng and Liao, Jiaqi and Chen, Huixian and Jiang, Kun and Yang, Mengmeng and Yang, Diange. *IEEE Intelligent Vehicles Symposium 2024*
+
+-   [E-MLP] E-MLP: Effortless Online HD Map Construction with Linear Priors.
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/10588612)
+    -   Li, Ruikai and Shan, Hao and Jiang, Han and Xiao, Jianru and Chang, Yizhuo and He, Yifan and Yu, Haiyang and Ren, Yilong. *IEEE Intelligent Vehicles Symposium 2024*
+
+-   [LaneMapNet] LaneMapNet: Lane Network Recognization and HD Map Construction Using Curve Region Aware Temporal Bird’s-Eye-View Perception.
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/10588419)
+    -   Zhu, Tianyi and Leng, Jianghao and Zhong, Jiaru and Zhang, Zhang and Sun, Chao. *IEEE Intelligent Vehicles Symposium 2024*
+
+-   [UniHDMap] UniHDMap: Unified Lane Elements Detection for Topology HD Map Construction.
+    [[pdf]](https://opendrivelab.github.io/Challenge%202024/mapless_CrazyFriday.pdf)
+    -   ZKou, Genghua and Jia, Fan and Wu, Dongming and Liu, Yingfei and Li, Ying and Wang, Tiancai. *personal website 2024*
+
+-   [MapDistill] MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation.
+    [[pdf]](https://arxiv.org/pdf/2407.11682)
+    -   Hao, Xiaoshuai and Li, Ruikai and Zhang, Hui and Li, Dingzhe and Yin, Rong and Jung, Sangil and Park, Seung-In and Yoo, ByungIn and Zhao, Haimei and Zhang, Jing. *arXiv 2024*
+
+-   [PrevPredMap] PrevPredMap: Exploring Temporal Modeling with Previous Predictions for Online Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2407.17378)
+    -   Peng, Nan and Zhou, Xun and Wang, Mingming and Yang, Xiaojun and Chen, Songming and Chen, Guisong. *arXiv 2024*
+
+-   Enhancing Online Road Network Perception and Reasoning with Standard Definition Maps.
+    [[pdf]](https://arxiv.org/pdf/2408.01471)
+    -   Zhang, Hengyuan and Paz, David and Guo, Yuliang and Das, Arun and Huang, Xinyu and Haug, Karsten and Christensen, Henrik I and Ren, Liu. *IROS 2024*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
