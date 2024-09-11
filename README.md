@@ -330,6 +330,11 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2408.01471)
     -   Zhang, Hengyuan and Paz, David and Guo, Yuliang and Das, Arun and Huang, Xinyu and Haug, Karsten and Christensen, Henrik I and Ren, Liu. *IROS 2024*
 
+-   [HRMapNet] Enhancing Vectorized Map Perception with Historical Rasterized Maps.
+    [[pdf]](https://arxiv.org/pdf/2409.00620)
+    [[code]](https://github.com/HXMap/HRMapNet)
+    -   Zhang, Xiaoyu and Liu, Guangwei and Liu, Zihao and Xu, Ningyi and Liu, Yunhui and Zhao, Ji. *ECCV 2024*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
