@@ -90,24 +90,24 @@ Markdown format:
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10184094)
     -   Elghazaly, Gamal and Frank, Raphaël and Harvey, Scott and Safko, Stefan. *IEEE Open Journal of Intelligent Transportation Systems 2023*
 
--   High-Definition Maps Construction Based on Visual Sensor: A Comprehensive Survey
+-   High-Definition Maps Construction Based on Visual Sensor: A Comprehensive Survey.
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10336514)
     -   Tang, Xuewei and Jiang, Kun and Yang, Mengmeng and Liu, Zhaoyang and Jia, Peijin and Wijaya, Benny and Wen, Tuopu and Cui, Le and Yang, Diange. *IEEE Transactions on Intelligent Vehicles 2023*
 
 ### 2024
--   High precision map crowdsource update technology and SLAM technology-Application in autonomous driving
+-   High precision map crowdsource update technology and SLAM technology-Application in autonomous driving.
     [[pdf]](https://www.mdpi.com/2220-9964/13/3/104)
     -   Liu, Dapeng. *J. Phys.: Conf. Ser. 2024*
 
--   A Review of Crowdsourcing Update Methods for High-Definition Maps
+-   A Review of Crowdsourcing Update Methods for High-Definition Maps.
     [[pdf]](https://www.mdpi.com/2220-9964/13/3/104)
     -   Guo, Yuan and Zhou, Jian and Li, Xicheng and Tang, Youchen and Lv, Zhicheng. *ISPRS Int. J. Geo-Inf. 2024*
 
--   On the Ecosystem of High-Definition (HD) Maps
+-   On the Ecosystem of High-Definition (HD) Maps.
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10555117)
     -   Zhuy, Yuanjie and Alrashid, Hussah and Bai, Song and Zhang, Chunhan and Zhang, Ziliang and Qu, Zhengyi and Ali, Reem Y and Magdy, Amr. *ICDEW 2024*
 
--   High Definition Map Mapping and Update: A General Overview and Future Directions
+-   High Definition Map Mapping and Update: A General Overview and Future Directions.
     [[pdf]](https://arxiv.org/pdf/2409.09726)
     -   Wijaya, Benny and Jiang, Kun and Yang, Mengmeng and Wen, Tuopu and Wang, Yunlong and Tang, Xuewei and Fu, Zheng and Zhou, Taohua and Yang, Diange. *arXiv 2024*
 
