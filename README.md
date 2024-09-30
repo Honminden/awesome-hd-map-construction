@@ -339,6 +339,18 @@ Markdown format:
     [[code]](https://github.com/HXMap/HRMapNet)
     -   Zhang, Xiaoyu and Liu, Guangwei and Liu, Zihao and Xu, Ningyi and Liu, Yunhui and Zhao, Ji. *ECCV 2024*
 
+-   [PriorMapNet] PriorMapNet: Enhancing Online Vectorized HD Map Construction with Priors.
+    [[pdf]](https://arxiv.org/pdf/2408.08802)
+    -   Wang, Rongxuan and Lu, Xin and Liu, Xiaoyang and Zou, Xiaoyi and Cao, Tongyi and Li, Ying. *arXiv 2024*
+
+-   [HoMap] HoMap: End-to-End Vectorized HD Map Construction with High-order Modeling.
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/10638726)
+    -   Cai, Yingfeng and Dong, Wei and Liu, Ze and Wang, Hai and Chen, Long. *IEEE Transactions on Intelligent Vehicles 2024*
+
+-   [PriorDrive] Driving with Prior Maps: Unified Vector Prior Encoding for Autonomous Vehicle Mapping.
+    [[pdf]](https://arxiv.org/pdf/2409.05352)
+    -   Zeng, Shuang and Chang, Xinyuan and Liu, Xinran and Pan, Zheng and Wei, Xing. *arXiv 2024*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
