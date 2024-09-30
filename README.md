@@ -107,6 +107,10 @@ Markdown format:
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10555117)
     -   Zhuy, Yuanjie and Alrashid, Hussah and Bai, Song and Zhang, Chunhan and Zhang, Ziliang and Qu, Zhengyi and Ali, Reem Y and Magdy, Amr. *ICDEW 2024*
 
+-   High Definition Map Mapping and Update: A General Overview and Future Directions
+    [[pdf]](https://arxiv.org/pdf/2409.09726)
+    -   Wijaya, Benny and Jiang, Kun and Yang, Mengmeng and Wen, Tuopu and Wang, Yunlong and Tang, Xuewei and Fu, Zheng and Zhou, Taohua and Yang, Diange. *arXiv 2024*
+
 ## Online HD map construction
 ### 2021
 -   [HDMapNet] Hdmapnet: An online hd map construction and evaluation framework.
