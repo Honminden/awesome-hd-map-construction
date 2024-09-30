@@ -351,6 +351,19 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2409.05352)
     -   Zeng, Shuang and Chang, Xinyuan and Liu, Xinran and Pan, Zheng and Wei, Xing. *arXiv 2024*
 
+-   [GenMapping] GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2409.08688)
+    -   Li, Siyu and Yang, Kailun and Shi, Hao and Wang, Song and Yao, You and Li, Zhiyong. *arXiv 2024*
+
+-   [GlobalMapNet] GlobalMapNet: An Online Framework for Vectorized Global HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2409.10063)
+    [[code]](https://github.com/Honminden/GlobalMapNet)
+    -   Shi, Anqi and Cai, Yuze and Chen, Xiangyu and Pu, Jian and Fu, Zeyu and Lu, Hong. *arXiv 2024*
+
+-   [ExelMap] ExelMap: Explainable Element-based HD-Map Change Detection and Update.
+    [[pdf]](https://arxiv.org/pdf/2409.10178)
+    -   Wild, Lena and Ericson, Ludvig and Valencia, Rafael and Jensfelt, Patric. *arXiv 2024*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
