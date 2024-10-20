@@ -364,6 +364,14 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2409.10178)
     -   Wild, Lena and Ericson, Ludvig and Valencia, Rafael and Jensfelt, Patric. *arXiv 2024*
 
+-   [MemFusionMap] MemFusionMap: Working Memory Fusion for Online Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2409.18737)
+    -   Song, Jingyu and Chen, Xudong and Lu, Liupei and Li, Jie and Skinner, Katherine A. *arXiv 2024*
+
+-   [MGMapNet] MGMapNet: Multi-Granularity Representation Learning for End-to-End Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2410.07733)
+    -   Yang, Jing and Jiang, Minyue and Yang, Sen and Tan, Xiao and Li, Yingying and Ding, Errui and Wang, Hanli and Wang, Jingdong. *arXiv 2024*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
