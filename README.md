@@ -366,7 +366,11 @@ Markdown format:
 
 -   [MemFusionMap] MemFusionMap: Working Memory Fusion for Online Vectorized HD Map Construction.
     [[pdf]](https://arxiv.org/pdf/2409.18737)
-    -   Song, Jingyu and Chen, Xudong and Lu, Liupei and Li, Jie and Skinner, Katherine A. *arXiv 2024*
+    -   Song, Jingyu and Chen, Xudong and Lu, Liupei and Li, Jie and Skinner, Katherine A. *arXiv 2024*\
+
+-   [SeqHDMapCDNet] Investigation on Change Detection of High Definition Map Based on Sequential Model.
+    [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980104)
+    -   Li, Lijun and Qiao, Zhenghao and Hu, Xing and Zhang, Wei. *SSRN 2024*
 
 -   [MGMapNet] MGMapNet: Multi-Granularity Representation Learning for End-to-End Vectorized HD Map Construction.
     [[pdf]](https://arxiv.org/pdf/2410.07733)
