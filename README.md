@@ -417,12 +417,16 @@ Markdown format:
 
 -   Multi-LiDAR Localization and Mapping Pipeline for Urban Autonomous Driving.
     [[pdf]](https://arxiv.org/pdf/2311.01823.pdf)
-    -   Sauerbeck, Florian and Kulmer, Dominik and Pielmeier, Markus and Leitenstern, Maximilian and Wei{\ss}, Christoph and Betz, Johannes. 2023 IEEE SENSORS*
+    -   Sauerbeck, Florian and Kulmer, Dominik and Pielmeier, Markus and Leitenstern, Maximilian and Wei{\ss}, Christoph and Betz, Johannes. *2023 IEEE SENSORS*
 
 -   [FlexMap Fusion] FlexMap Fusion: Georeferencing and Automated Conflation of HD Maps with OpenStreetMap.
     [[pdf]](https://arxiv.org/pdf/2404.11155.pdf)
     [[code]](https://github.com/TUMFTM/FlexMap_Fusion)
     -   Leitenstern, Maximilian and Sauerbeck, Florian and Kulmer, Dominik and Betz, Johannes. *arXiv 2024*
+
+-   An Indoor-Outdoor Layered HD Map Construction for Unmanned Ground Vehicles.
+    [[pdf]](https://isprs-annals.copernicus.org/articles/X-4-2024/117/2024/isprs-annals-X-4-2024-117-2024.pdf)
+    -   Gao, Huimin and Zhong, Ruofei and Qi, Xingyu and Xie, Donghai and Sun, Zhenxing and Sun, Haili. *2024 ISPRS Annals*
 
 ## Lane detection
 -   [3D-LaneNet] 3D-LaneNet: End-to-End 3D Multiple Lane Detection.
