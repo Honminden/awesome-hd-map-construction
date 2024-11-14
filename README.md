@@ -376,6 +376,15 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2410.07733)
     -   Yang, Jing and Jiang, Minyue and Yang, Sen and Tan, Xiao and Li, Yingying and Ding, Errui and Wang, Hanli and Wang, Jingdong. *arXiv 2024*
 
+-   [TICMapNet] TICMapNet: A Tightly Coupled Temporal Fusion Pipeline for Vectorized HD Map Learning.
+    [[pdf]](https://ieeexplore.ieee.org/document/10740793)
+    [[code]](https://github.com/adasfag/TICMapNet)
+    -   Qiu, Wenzhao and Pang, Shanmin and Zhang, Hao and Fang, Jianwu and Xue, Jianru. *IEEE Robotics and Automation Letters 2024*
+
+-   [HeightMapNet] HeightMapNet: Explicit Height Modeling for End-to-End HD Map Learning.
+    [[pdf]](https://arxiv.org/pdf/2411.01408)
+    -   Qiu, Wenzhao and Pang, Shanmin and Zhang, Hao and Fang, Jianwu and Xue, Jianru. *arXiv 2024*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
