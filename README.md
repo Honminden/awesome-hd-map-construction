@@ -210,7 +210,7 @@ Markdown format:
 -   [GeMap] Online Vectorized HD Map Construction using Geometry.
     [[pdf]](https://arxiv.org/pdf/2312.03341.pdf)
     [[code]](https://github.com/cnzzx/GeMap)
-    -   Zhixin Zhang and Yiyuan Zhang and Xiaohan Ding and Fusheng Jin and Xiangyu Yue. *arXiv 2023*
+    -   Zhixin Zhang and Yiyuan Zhang and Xiaohan Ding and Fusheng Jin and Xiangyu Yue. *ECCV 2024*
 
 ### 2024
 -   [MapNeXt] MapNeXt: Revisiting Training and Scaling Practices for Online Vectorized HD Map Construction.
