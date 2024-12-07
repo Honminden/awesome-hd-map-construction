@@ -385,6 +385,14 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2411.01408)
     -   Qiu, Wenzhao and Pang, Shanmin and Zhang, Hao and Fang, Jianwu and Xue, Jianru. *arXiv 2024*
 
+-   [M3TR] M3TR: Generalist HD Map Construction with Variable Map Priors.
+    [[pdf]](https://arxiv.org/pdf/2411.10316)
+    -   Immel, Fabian and Fehler, Richard and Bieder, Frank and Pauls, Jan-Hendrik and Stiller, Christoph. *arXiv 2024*
+
+-   [MapUnveiler] Unveiling the Hidden: Online Vectorized HD Map Construction with Clip-Level Token Interaction and Propagation.
+    [[pdf]](https://arxiv.org/pdf/2411.11002)
+    -   Kim, Nayeon and Seong, Hongje and Ji, Daehyun and Jang, Sujin. *NeurIPS 2024*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
