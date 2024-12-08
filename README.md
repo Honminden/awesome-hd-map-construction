@@ -111,6 +111,10 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2409.09726)
     -   Wijaya, Benny and Jiang, Kun and Yang, Mengmeng and Wen, Tuopu and Wang, Yunlong and Tang, Xuewei and Fu, Zheng and Zhou, Taohua and Yang, Diange. *arXiv 2024*
 
+-   Online High-Definition Map Construction for Autonomous Vehicles: A Comprehensive Survey.
+    [[pdf]](https://www.preprints.org/manuscript/202411.1810/v1)
+    -   Lyu, Hongyu and Perez, Julie Stephany Berrio and Huang, Yaoqi and Li, Kunming and Shan, Mao and Worrall, Stewart. *Preprints 2024*
+
 ## Online HD map construction
 ### 2021
 -   [HDMapNet] Hdmapnet: An online hd map construction and evaluation framework.
