@@ -397,6 +397,15 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2411.11002)
     -   Kim, Nayeon and Seong, Hongje and Ji, Daehyun and Jang, Sujin. *NeurIPS 2024*
 
+-   [GaussianPretrain] GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving.
+    [[pdf]](https://arxiv.org/pdf/2411.12452)
+    [[code]](https://github.com/Public-BOTs/GaussianPretrain)
+    -   Xu, Shaoqing and Li, Fang and Jiang, Shengyin and Song, Ziying and Liu, Li and Yang, Zhi-xin. *arXiv 2024*
+
+-   [MapExpert] MapExpert: Online HD Map Construction with Simple and Efficient Sparse Map Element Expert.
+    [[pdf]](https://arxiv.org/pdf/2412.12704)
+    -   Zhang, Dapeng and Chen, Dayu and Zhi, Peng and Chen, Yinda and Yuan, Zhenlong and Li, Chenyang and Sunjing and Zhou, Rui and Zhou, Qingguo. *arXiv 2024*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
