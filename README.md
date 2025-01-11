@@ -280,6 +280,11 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2405.05518)
     -   Li, Siyu and Lin, Jiacheng and Shi, Hao and Zhang, Jiaming and Wang, Song and Yao, You and Li, Zhiyong and Yang, Kailun. *arXiv 2024*
 
+-   [SparseDrive] SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation.
+    [[pdf]](https://arxiv.org/pdf/2405.19620)
+    [[code]](https://github.com/swc-17/SparseDrive)
+    -   Sun, Wenchao and Lin, Xuewu and Shi, Yining and Zhang, Chuang and Wu, Haoran and Zheng, Sifa. *arXiv 2024*
+
 -   [POP-Net] Camera-based Online Vectorized HD Map Construction with Incomplete Observation.
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10542214)
     -   Liu, Hui and Chang, Faliang and Liu, Chunsheng and Lu, Yansha and Liu, Minhang. *IEEE Robotics and Automation Letters 2024*
