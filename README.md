@@ -478,6 +478,10 @@ Markdown format:
     [[code]](https://github.com/ybarancan/STSU)
     -   Can, Yigit Baran and Liniger, Alexander and Paudel, Danda Pani and Van Gool, Luc. *ICCV 2021*
 
+-   [HDMapGen] HDMapGen: AHierarchical Graph Generative Model of High Definition Maps.
+    [[pdf]](https://arxiv.org/pdf/2106.14880v1)
+    -   Mi, Lu and Zhao, Hang and Nash, Charlie and Jin, Xiaohan and Gao, Jiyang and Sun, Chen and Schmid, Cordelia and Shavit, Nir and Chai, Yuning and Anguelov, Dragomir. *CVPR 2021*
+
 ## Misc
 -   [MapLite 2.0] MapLite 2.0: Online HD Map Inference Using a Prior SD Map.
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/9807400)
