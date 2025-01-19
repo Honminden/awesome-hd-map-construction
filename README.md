@@ -216,6 +216,11 @@ Markdown format:
     [[code]](https://github.com/cnzzx/GeMap)
     -   Zhixin Zhang and Yiyuan Zhang and Xiaohan Ding and Fusheng Jin and Xiangyu Yue. *ECCV 2024*
 
+-   [LaneSegNet] LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving.
+    [[pdf]](https://arxiv.org/pdf/2312.16108)
+    [[code]](https://github.com/OpenDriveLab/LaneSegNet)
+    -   Li, Tianyu and Jia, Peijin and Wang, Bangjun and Chen, Li and JIANG, KUN and Yan, Junchi and Li, Hongyang. *ICLR 2024*
+
 ### 2024
 -   [MapNeXt] MapNeXt: Revisiting Training and Scaling Practices for Online Vectorized HD Map Construction.
     [[pdf]](https://arxiv.org/pdf/2401.07323.pdf)
