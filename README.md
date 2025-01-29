@@ -136,7 +136,7 @@ Markdown format:
 -   [SuperFusion] SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation.
     [[pdf]](https://arxiv.org/pdf/2211.15656.pdf)
     [[code]](https://github.com/haomo-ai/SuperFusion)
-    -   Dong, Hao and Zhang, Xianjing and Xu, Jintao and Ai, Rui and Gu, Weihao and Lu, Huimin and Kannala, Juho and Chen, Xieyuanli. *arXiv 2022*
+    -   Dong, Hao and Zhang, Xianjing and Xu, Jintao and Ai, Rui and Gu, Weihao and Lu, Huimin and Kannala, Juho and Chen, Xieyuanli. *ICRA 2024*
 
 ### 2023
 -   [InstaGraM] InstaGraM: Instance-level Graph Modeling for Vectorized HD Map Learning.
@@ -196,7 +196,7 @@ Markdown format:
 -   [SatforHDMap] Complementing Onboard Sensors with Satellite Map: A New Perspective for HD Map Construction.
     [[pdf]](https://arxiv.org/pdf/2308.15427.pdf)
     [[code]](https://github.com/xjtu-cs-gao/SatforHDMap)
-    -   Gao, Wenjie and Fu, Jiawei and Jing, Haodong and Zheng, Nanning. *arXiv 2023*
+    -   Gao, Wenjie and Fu, Jiawei and Jing, Haodong and Zheng, Nanning. *ICRA 2024*
 
 -   [PivotNet] PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction.
     [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ding_PivotNet_Vectorized_Pivot_Learning_for_End-to-end_HD_Map_Construction_ICCV_2023_paper.pdf)
@@ -228,7 +228,8 @@ Markdown format:
 
 -   [SQD-MapNet] Stream Query Denoising for Vectorized HD Map Construction.
     [[pdf]](https://arxiv.org/pdf/2401.09112.pdf)
-    -   Wang, Shuo and Jia, Fan and Liu, Yingfei and Zhao, Yucheng and Chen, Zehui and Wang, Tiancai and Zhang, Chi and Zhang, Xiangyu and Zhao, Feng. *arXiv 2024*
+    [[code]](https://github.com/shuowang666/SQD-MapNet)
+    -   Wang, Shuo and Jia, Fan and Liu, Yingfei and Zhao, Yucheng and Chen, Zehui and Wang, Tiancai and Zhang, Chi and Zhang, Xiangyu and Zhao, Feng. *ECCV 2024*
 
 -   [ADMap] ADMap: Anti-disturbance framework for reconstructing online vectorized HD map.
     [[pdf]](https://arxiv.org/pdf/2401.13172.pdf)
@@ -237,7 +238,7 @@ Markdown format:
 
 -   [MapQR] Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction.
     [[pdf]](https://arxiv.org/pdf/2402.17430.pdf)
-    -   Liu, Zihao and Zhang, Xiaoyu and Liu, Guangwei and Zhao, Ji and Xu, Ningyi. *arXiv 2024*
+    -   Liu, Zihao and Zhang, Xiaoyu and Liu, Guangwei and Zhao, Ji and Xu, Ningyi. *ECCV 2024*
 
 -   [EAN-MapNet] EAN-MapNet: Efficient Vectorized HD Map Construction with Anchor Neighborhoods.
     [[pdf]](https://arxiv.org/pdf/2402.18278.pdf)
@@ -254,7 +255,7 @@ Markdown format:
 -   [P-MapNet] P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors.
     [[pdf]](https://arxiv.org/pdf/2403.10521.pdf)
     [[code]](https://github.com/jike5/P-MapNet)
-    -   Jiang, Zhou and Zhu, Zhenxin and Li, Pengfei and Gao, Huan-ang and Yuan, Tianyuan and Shi, Yongliang and Zhao, Hang and Zhao, Hao. *arXiv 2024*
+    -   Jiang, Zhou and Zhu, Zhenxin and Li, Pengfei and Gao, Huan-ang and Yuan, Tianyuan and Shi, Yongliang and Zhao, Hang and Zhao, Hao. *IEEE Robotics and Automation Letters 2024*
 
 -   [Buffered Gaussian Modeling] Buffered Gaussian Modeling for Vectorized HD Map Construction.
     [[pdf]](https://ieeexplore.ieee.org/document/10445925)
@@ -266,8 +267,9 @@ Markdown format:
     -   Chen, Jiacheng and Wu, Yuefan and Tan, Jiaqi and Ma, Hang and Furukawa, Yasutaka. *arXiv 2024*
 
 -   [MGMap] MGMap: Mask-Guided Learning for Online Vectorized HD Map Construction.
-    [[pdf]](https://arxiv.org/pdf/2404.00876.pdf)
-    -   Liu, Xiaolu and Wang, Song and Li, Wentong and Yang, Ruizi and Chen, Junbo and Zhu, Jianke. *arXiv 2024*
+    [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_MGMap_Mask-Guided_Learning_for_Online_Vectorized_HD_Map_Construction_CVPR_2024_paper.pdf)
+    [[code]](https://github.com/xiaolul2/MGMap)
+    -   Liu, Xiaolu and Wang, Song and Li, Wentong and Yang, Ruizi and Chen, Junbo and Zhu, Jianke. *CVPR 2024*
 
 -   [SparseAD] SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving.
     [[pdf]](https://arxiv.org/pdf/2404.06892.pdf)
@@ -283,7 +285,8 @@ Markdown format:
 
 -   [DTCLMapper] DTCLMapper: Dual Temporal Consistent Learning for Vectorized HD Map Construction.
     [[pdf]](https://arxiv.org/pdf/2405.05518)
-    -   Li, Siyu and Lin, Jiacheng and Shi, Hao and Zhang, Jiaming and Wang, Song and Yao, You and Li, Zhiyong and Yang, Kailun. *arXiv 2024*
+    [[code]](https://github.com/lynn-yu/DTCLMapper)
+    -   Li, Siyu and Lin, Jiacheng and Shi, Hao and Zhang, Jiaming and Wang, Song and Yao, You and Li, Zhiyong and Yang, Kailun. *IEEE Transactions on Intelligent Transportation Systems 2024*
 
 -   [SparseDrive] SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation.
     [[pdf]](https://arxiv.org/pdf/2405.19620)
@@ -318,7 +321,7 @@ Markdown format:
 
 -   [Mask2Map] Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks.
     [[pdf]](https://arxiv.org/pdf/2407.13517)
-    -   Choi, Sehwan and Kim, Jungho and Shin, Hongjae and Choi, Jun Won. *arXiv 2024*
+    -   Choi, Sehwan and Kim, Jungho and Shin, Hongjae and Choi, Jun Won. *ECCV 2024*
 
 -   [LaneDAG] LaneDAG: Automatic HD Map Topology Generator Based on Geometry and Attention Fusion Mechanism.
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10588515)
@@ -342,7 +345,8 @@ Markdown format:
 
 -   [PrevPredMap] PrevPredMap: Exploring Temporal Modeling with Previous Predictions for Online Vectorized HD Map Construction.
     [[pdf]](https://arxiv.org/pdf/2407.17378)
-    -   Peng, Nan and Zhou, Xun and Wang, Mingming and Yang, Xiaojun and Chen, Songming and Chen, Guisong. *arXiv 2024*
+    [[code]](https://github.com/pnnnnnnn/PrevPredMap)
+    -   Peng, Nan and Zhou, Xun and Wang, Mingming and Yang, Xiaojun and Chen, Songming and Chen, Guisong. *WACV 2025*
 
 -   Enhancing Online Road Network Perception and Reasoning with Standard Definition Maps.
     [[pdf]](https://arxiv.org/pdf/2408.01471)
@@ -380,7 +384,7 @@ Markdown format:
 
 -   [MemFusionMap] MemFusionMap: Working Memory Fusion for Online Vectorized HD Map Construction.
     [[pdf]](https://arxiv.org/pdf/2409.18737)
-    -   Song, Jingyu and Chen, Xudong and Lu, Liupei and Li, Jie and Skinner, Katherine A. *arXiv 2024*\
+    -   Song, Jingyu and Chen, Xudong and Lu, Liupei and Li, Jie and Skinner, Katherine A. *arXiv 2024*
 
 -   [SeqHDMapCDNet] Investigation on Change Detection of High Definition Map Based on Sequential Model.
     [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980104)
