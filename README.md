@@ -27,6 +27,7 @@ Markdown format:
     - [2022](#2022-1)
     - [2023](#2023-1)
     - [2024](#2024-1)
+    - [2025](#2025)
   - [HD map crowdsourcing](#hd-map-crowdsourcing)
     - [2017](#2017)
     - [2020](#2020-1)
@@ -419,6 +420,35 @@ Markdown format:
 -   [MapExpert] MapExpert: Online HD Map Construction with Simple and Efficient Sparse Map Element Expert.
     [[pdf]](https://arxiv.org/pdf/2412.12704)
     -   Zhang, Dapeng and Chen, Dayu and Zhi, Peng and Chen, Yinda and Yuan, Zhenlong and Li, Chenyang and Sunjing and Zhou, Rui and Zhou, Qingguo. *arXiv 2024*
+
+-   [ImagineMap] ImagineMap: Enhanced HD Map Construction with SD Maps.
+    [[pdf]](https://arxiv.org/pdf/2412.16938)
+    -   Ji, Yishen and Li, Zhiqi and Lu, Tong. *arXiv 2024*
+
+### 2025
+-   [MSC-Bench] MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception.
+    [[pdf]](https://arxiv.org/pdf/2501.01037)
+    -   Hao, Xiaoshuai and Liu, Guanqun and Zhao, Yuting and Ji, Yuheng and Wei, Mengchuan and Zhao, Haimei and Kong, Lingdong and Yin, Rong and Liu, Yu. *arXiv 2025*
+
+-   [MapGS] MapGS: Generalizable Pretraining and Data Augmentation for Online Mapping via Novel View Synthesis.
+    [[pdf]](https://arxiv.org/pdf/2501.06660)
+    -   Zhang, Hengyuan and Paz, David and Guo, Yuliang and Huang, Xinyu and Christensen, Henrik I and Ren, Liu. *arXiv 2025*
+
+-   [SMART] SMART: Advancing Scalable Map Priors for Driving Topology Reasoning.
+    [[pdf]](https://arxiv.org/pdf/2502.04329)
+    -   Ye, Junjie and Paz, David and Zhang, Hengyuan and Guo, Yuliang and Huang, Xinyu and Christensen, Henrik I and Wang, Yue and Ren, Liu. *arXiv 2025*
+
+-   [MapFusion] MapFusion: A Novel BEV Feature Fusion Network for Multi-modal Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2502.04377)
+    -   Hao, Xiaoshuai and Diao, Yunfeng and Wei, Mengchuan and Yang, Yifan and Hao, Peng and Yin, Rong and Zhang, Hui and Li, Weiming and Zhao, Shu and Liu, Yu. *arXiv 2025*
+
+-   [AerialHDMappper] AerialHDMappper: High-Definition Map Construction from Aerial Imagery.
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/10879386)
+    -   Xie, Haofeng and Hu, Xiangyun and Jiang, Huiwei and Dai, Hengming and Dong, Pengwei and Wang, Pengfei. *IEEE Transactions on Geoscience and Remote Sensing 2025*
+
+-   [HDMapLaneNet] Leveraging V2X for Collaborative HD Maps Construction Using Scene Graph Generation.
+    [[pdf]](https://arxiv.org/pdf/2502.10127)
+    -   Elghazaly, Gamal and Frank, Raphael. *arXiv 2025*
 
 ## HD map crowdsourcing
 ### 2017
