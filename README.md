@@ -450,6 +450,47 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf/2502.10127)
     -   Elghazaly, Gamal and Frank, Raphael. *arXiv 2025*
 
+-   [InVDriver] InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer.
+    [[pdf]](https://arxiv.org/pdf/2502.17949)
+    -   Zhang, Bo and Huang, Heye and Liu, Chunyang and Zhang, Yaqin and Xu, Zhenhua. *arXiv 2025*
+
+-   [TS-CGNet] TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping.
+    [[pdf]](https://arxiv.org/pdf/2503.02578)
+    -   Hong, Xinying and Li, Siyu and Zeng, Kang and Shi, Hao and Peng, Bomin and Yang, Kailun and Li, Zhiyong. *arXiv 2025*
+
+-   [FastMap] FastMap: Fast Queries Initialization Based Vectorized HD Map Reconstruction Framework.
+    [[pdf]](https://arxiv.org/pdf/2503.05492)
+    -   Hu, Haotian and Xu, Jingwei and Wang, Fanyi and Li, Toyota and Wang, Yaonong and Hu, Laifeng and Zhang, Zhiwang. *arXiv 2025*
+
+-   [HisTrackMap] HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking.
+    [[pdf]](https://arxiv.org/pdf/2503.07168)
+    -   Yang, Jing and Yang, Sen and Tan, Xiao and Wang, Hanli. *arXiv 2025*
+
+-   Enhancing Online HD Map Construction with Trajectory Guidance in Challenging.
+    [[pdf]](https://link.springer.com/chapter/10.1007/978-981-96-3973-1_27)
+    -   Yao, Ziying and Xiong, Zhongxia and Wu, Xinkai. *International Conference on Artificial Intelligence and Autonomous Transportation 2024*
+
+-   [AugMapNet] AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2503.13430)
+    -   Monninger, Thomas and Anwar, Md Zafar and Antol, Stanislaw and Staab, Steffen and Ding, Sihao. *arXiv 2025*
+
+-   [KPMapNet] KPMapNet: Keypoint Representation Learning for Online Vectorized High-Definition Map Construction.
+    [[pdf]](https://www.mdpi.com/1424-8220/25/6/1897)
+    -   Jin, Bicheng and Hao, Wenyu and Qiu, Wenzhao and Pang, Shanmin. *Sensors 2025*
+
+-   [InteractionMap] InteractionMap: Improving Online Vectorized HDMap Construction with Interaction.
+    [[pdf]](https://arxiv.org/pdf/2503.21659)
+    -   Wu, Kuang and Yang, Chuan and Li, Zhanbin. *arXiv 2025*
+
+-   [UIGenMap] Uncertainty-Instructed Structure Injection for Generalizable HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2503.23109)
+    -   Liu, Xiaolu and Yang, Ruizi and Wang, Song and Li, Wentong and Chen, Junbo and Zhu, Jianke. *arXiv 2025*
+
+-   [V2I-HD] A Benchmark for Vision-Centric HD Mapping by V2I Systems.
+    [[pdf]](https://arxiv.org/pdf/2503.23963)
+    [[code]](https://1drv.ms/f/c/76645c25a8914a0b/EgWy5XCUk6pKgvE9vB-HbVEBCdCQjJvgx1KKjeKF7hPdZw)
+    -   Fan, Miao and Yu, Shanshan and Xu, Shengtong and Jiang, Kun and Xiong, Haoyi and Liu, Xiangzeng. *arXiv 2025*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
