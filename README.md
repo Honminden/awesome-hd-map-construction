@@ -98,11 +98,11 @@ Markdown format:
 ### 2024
 -   High precision map crowdsource update technology and SLAM technology-Application in autonomous driving.
     [[pdf]](https://www.mdpi.com/2220-9964/13/3/104)
-    -   Liu, Dapeng. *J. Phys.: Conf. Ser. 2024*
+    -   Liu, Dapeng. *Journal of Physics: Conference Series 2024*
 
 -   A Review of Crowdsourcing Update Methods for High-Definition Maps.
     [[pdf]](https://www.mdpi.com/2220-9964/13/3/104)
-    -   Guo, Yuan and Zhou, Jian and Li, Xicheng and Tang, Youchen and Lv, Zhicheng. *ISPRS Int. J. Geo-Inf. 2024*
+    -   Guo, Yuan and Zhou, Jian and Li, Xicheng and Tang, Youchen and Lv, Zhicheng. * ISPRS International Journal of Geo-Information 2024*
 
 -   On the Ecosystem of High-Definition (HD) Maps.
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10555117)
@@ -114,7 +114,7 @@ Markdown format:
 
 -   Online High-Definition Map Construction for Autonomous Vehicles: A Comprehensive Survey.
     [[pdf]](https://www.preprints.org/manuscript/202411.1810/v1)
-    -   Lyu, Hongyu and Perez, Julie Stephany Berrio and Huang, Yaoqi and Li, Kunming and Shan, Mao and Worrall, Stewart. *Preprints 2024*
+    -   Lyu, Hongyu and Perez, Julie Stephany Berrio and Huang, Yaoqi and Li, Kunming and Shan, Mao and Worrall, Stewart. *Journal of Sensor and Actuator Networks 2025*
 
 ## Online HD map construction
 ### 2021
@@ -183,7 +183,7 @@ Markdown format:
 -   [MapTRv2] MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction.
     [[pdf]](https://arxiv.org/pdf/2308.05736.pdf)
     [[code]](https://github.com/hustvl/MapTR)
-    -   Liao, Bencheng and Chen, Shaoyu and Zhang, Yunchi and Jiang, Bo and Zhang, Qian and Liu, Wenyu and Huang, Chang and Wang, Xinggang. *arXiv 2023*
+    -   Liao, Bencheng and Chen, Shaoyu and Zhang, Yunchi and Jiang, Bo and Zhang, Qian and Liu, Wenyu and Huang, Chang and Wang, Xinggang. *IJCV 2024*
 
 -   [InsightMapper] InsightMapper: A Closer Look at Inner-instance Information for Vectorized High-Definition Mapping.
     [[pdf]](https://arxiv.org/pdf/2308.08543.pdf)
@@ -210,7 +210,7 @@ Markdown format:
 
 -   [MapEX] Mind the map! Accounting for existing map information when estimating online HDMaps from sensor data.
     [[pdf]](https://arxiv.org/pdf/2311.10517.pdf)
-    -   Sun, Rémy and Yang, Li and Lingrand, Diane and Precioso, Frédéric. *arXiv 2023*
+    -   Sun, Rémy and Yang, Li and Lingrand, Diane and Precioso, Frédéric. *WACV 2025*
 
 -   [GeMap] Online Vectorized HD Map Construction using Geometry.
     [[pdf]](https://arxiv.org/pdf/2312.03341.pdf)
@@ -251,7 +251,7 @@ Markdown format:
 
 -   [PreSight] PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors.
     [[pdf]](https://arxiv.org/pdf/2403.09079.pdf)
-    -   Yuan, Tianyuan and Mao, Yucheng and Yang, Jiawei and Liu, Yicheng and Wang, Yue and Zhao, Hang. *arXiv 2024*
+    -   Yuan, Tianyuan and Mao, Yucheng and Yang, Jiawei and Liu, Yicheng and Wang, Yue and Zhao, Hang. *ECCV 2024*
 
 -   [P-MapNet] P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors.
     [[pdf]](https://arxiv.org/pdf/2403.10521.pdf)
@@ -265,7 +265,7 @@ Markdown format:
 -   [MapTracker] MapTracker: Tracking with Strided Memory Fusion for Consistent Vector HD Mapping.
     [[pdf]](https://arxiv.org/pdf/2403.15951.pdf)
     [[code]](https://github.com/woodfrog/maptracker)
-    -   Chen, Jiacheng and Wu, Yuefan and Tan, Jiaqi and Ma, Hang and Furukawa, Yasutaka. *arXiv 2024*
+    -   Chen, Jiacheng and Wu, Yuefan and Tan, Jiaqi and Ma, Hang and Furukawa, Yasutaka. *ECCV 2024*
 
 -   [MGMap] MGMap: Mask-Guided Learning for Online Vectorized HD Map Construction.
     [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_MGMap_Mask-Guided_Learning_for_Online_Vectorized_HD_Map_Construction_CVPR_2024_paper.pdf)
