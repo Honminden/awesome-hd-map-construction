@@ -33,6 +33,7 @@ Markdown format:
     - [2020](#2020-1)
     - [2023](#2023-2)
     - [2024](#2024-2)
+    - [2025](#2025-1)
   - [HD map construction with human efforts](#hd-map-construction-with-human-efforts)
   - [Lane detection](#lane-detection)
   - [Misc](#misc)
@@ -491,6 +492,27 @@ Markdown format:
     [[code]](https://1drv.ms/f/c/76645c25a8914a0b/EgWy5XCUk6pKgvE9vB-HbVEBCdCQjJvgx1KKjeKF7hPdZw)
     -   Fan, Miao and Yu, Shanshan and Xu, Shengtong and Jiang, Kun and Xiong, Haoyi and Liu, Xiangzeng. *arXiv 2025*
 
+-   Control Map Distribution using Map Query Bank for Online Map Generation.
+    [[pdf]](https://arxiv.org/pdf/2504.03868)
+    -   Liu, Ziming and Wang, Leichen and Yang, Ge and Li, Xinrun and Hu, Xingtao and Sun, Hao and Gao, Guangyu. *arXiv 2025*
+
+-   [Uni-PrevPredMap] Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2504.06647)
+    [[code]](https://github.com/pnnnnnnn/uni-prevpredmap)
+    -   Peng, Nan and Zhou, Xun and Wang, Mingming and Chen, Guisong and Xu, Wenqi. *arXiv 2025*
+
+-   [SIO-Mapper] SIO-Mapper: A Framework for Lane-Level HD Map Construction Using Satellite Images and OpenStreetMap with No On-Site Visits.
+    [[pdf]](https://arxiv.org/pdf/2504.09882)
+    -   Cho, Younghun and Ryu, Jee-Hwan. *arXiv 2025*
+
+-   [SparseMeXt] SparseMeXt: Unlocking the Potential of Sparse Representations for HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2504.09882)
+    -   Jiang, Anqing and Chai, Jinhao and Gao, Yu and Wang, Yiru and Heng, Yuwen and Sun, Zhigang and Sun, Hao and Zhao, Zezhong and Sun, Li and Zhou, Jian and Zhu, Lijuan and Xu, Shugong and Zhao, Hao. *arXiv 2025*
+
+-   [SuperMapNet] SuperMapNet for Long-Range and High-Accuracy Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2505.13856)
+    -   Zhou, Ruqin and Jiang, San and Jiang, Wanshou and Zhang, Yongsheng and Dai, Chenguang. *arXiv 2025*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
@@ -515,6 +537,19 @@ Markdown format:
 -   [MapCVV] MapCVV: On-cloud Map Construction Using Crowdsourcing Visual Vectorized Elements towards Autonomous Driving.
     [[pdf]](https://ieeexplore.ieee.org/abstract/document/10517387)
     -   Chen, Pengxin and Jiang, Xiaoqi and Zhang, Yingjun and Tan, Jiahao and Jiang, Rong. *IEEE Robotics and Automation Letters 2024*
+
+### 2025
+-   [CleanMAP] CleanMAP: Distilling Multimodal LLMs for Confidence-Driven Crowdsourced HDMapUpdates.
+    [[pdf]](https://arxiv.org/pdf/2504.10738)
+    -   Shaw, Ankit Kumar and Jiang, Kun and Wen, Tuopu and Sah, Chandan Kumar and Shi, Yining and Yang, Mengmeng and Yang, Diange and Lian, Xiaoli. *arxiv 2025*
+
+-   [TrailTR] Inferring Driving Maps by Deep Learning-based Trail Map Extraction.
+    [[pdf]](https://arxiv.org/pdf/2505.10258)
+    -   Hubbertz, Michael and Colling, Pascal and Han, Qi and Meisen, Tobias. *arxiv 2025*
+
+-   [AutoTS] Traffic Sign Localization and Orientation Classification for Automated Map Updating.
+    [[pdf]](https://ieeexplore.ieee.org/abstract/document/11005561)
+    -   Han, Xianjing and Hu, Wenmiao and Song, Xuemeng and Kruppa, Hannes and Ng, See-Kiong and Zimmermann, Roger. *IEEE Transactions on Circuits and Systems for Video Technology 2025*
 
 ## HD map construction with human efforts
 -   [THMA] THMA: tencent HD Map AI system for creating HD map annotations.
