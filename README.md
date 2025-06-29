@@ -16,10 +16,12 @@ Please follow these rules:
 3. If the paper does not give the code link, or the corresponding link does not contain any real source code, `[[code]](link)` should be omitted
 
 Example:
+```markdown
 -   [MapTR] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction.
     [[pdf]](https://openreview.net/pdf?id=k7p_YAO7yE)
     [[code]](https://github.com/hustvl/MapTR)
     -   Liao, Bencheng and Chen, Shaoyu and Wang, Xinggang and Cheng, Tianheng, and Zhang, Qian and Liu, Wenyu and Huang, Chang. *ICLR 2023*
+```
 
 ## Table of Contents  
 - [awesome-hd-map-construction ](#awesome-hd-map-construction-)
