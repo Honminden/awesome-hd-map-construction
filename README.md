@@ -5,11 +5,21 @@ A curated list of awesome HD map construction methods. Inspired by [awesome-self
 Please help contribute this list by creating an issue or adding pull request.
 Markdown format:
 ```markdown
-- [Model Name] Paper Name. 
-  [[pdf]](link) 
-  [[code]](link)
-  - Author 1, Author 2, and Author 3. *Conference Year*
+-   [Model Name] Paper Title. 
+    [[pdf]](link)
+    [[code]](link)
+    -   Author1 first name, Author1 last name and Author 2 first name, Author 2 last name and ... *Conference Year*
 ```
+Please follow these rules:
+1. If the paper does not propose a model name, `[Model Name]` should be omitted
+2. `[[pdf]](link)` could be the arxiv version if the published version is not available
+3. If the paper does not give the code link, or the corresponding link does not contain any real source code, `[[code]](link)` should be omitted
+
+Example:
+-   [MapTR] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction.
+    [[pdf]](https://openreview.net/pdf?id=k7p_YAO7yE)
+    [[code]](https://github.com/hustvl/MapTR)
+    -   Liao, Bencheng and Chen, Shaoyu and Wang, Xinggang and Cheng, Tianheng, and Zhang, Qian and Liu, Wenyu and Huang, Chang. *ICLR 2023*
 
 ## Table of Contents  
 - [awesome-hd-map-construction ](#awesome-hd-map-construction-)
