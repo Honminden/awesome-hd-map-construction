@@ -523,6 +523,22 @@ Example:
     [[pdf]](https://arxiv.org/pdf/2505.13856)
     -   Zhou, Ruqin and Jiang, San and Jiang, Wanshou and Zhang, Yongsheng and Dai, Chenguang. *arXiv 2025*
 
+-   [SDTagNet] SDTagNet: Leveraging Text-Annotated Navigation Maps for Online HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2506.08997)
+      - Immel, Fabian and Pauls, Jan-Hendrik and Fehler, Richard and Bieder, Frank and Merkert, Jonas and Stiller, Christoph. *arXiv 2025*
+
+-   [HDP-Map] HDP-Map: Hierarchical Dual-Path Learning Framework with Geometric-Semaware Attention.
+    [[pdf]](https://ssrn.com/abstract=5281666)
+    -   Tian, Keke and Zhang, Jingtao and Zhang, Jing and Qin, Ke. *SSRN 2025*
+
+  - [CrowdMap] Scalable Crowd-Sourced Global HD Map Construction via Collaborative Map Perception and Sparse Graph Fusion.
+    [[pdf]](https://ry4nzhu.github.io/publication/scalable_crowded_hd_map_construction/scalable_crowded_HD_map_construction.pdf)
+      - Zhu, Ruiyang and Cho, Minkyoung and Zeng, Shuqing and Bai, Fan and Gao, Xiang and Mao, Z. Morley. *2024*
+
+-   [MapFM] MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning.
+    [[pdf]](https://arxiv.org/pdf/2506.15313)
+    -   Ivanov, Leonid and Yuryev, Vasily and Yudin, Dmitry. *arXiv 2025*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
