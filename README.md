@@ -541,6 +541,10 @@ Example:
     [[pdf]](https://arxiv.org/pdf/2506.15313)
     -   Ivanov, Leonid and Yuryev, Vasily and Yudin, Dmitry. *arXiv 2025*
 
+-   [SafeMap] SafeMap: Robust HD Map Construction from Incomplete Observations.
+    [[pdf]](https://arxiv.org/pdf/2507.00861)
+    -   Hao, Xiaoshuai and Kong, Lingdong and Yin, Rong and Wang, Pengwei and Zhang, Jing and Diao, Yunfeng and Zhao, Shu. *ICML 2025*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
