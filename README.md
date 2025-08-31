@@ -545,6 +545,58 @@ Example:
     [[pdf]](https://arxiv.org/pdf/2507.00861)
     -   Hao, Xiaoshuai and Kong, Lingdong and Yin, Rong and Wang, Pengwei and Zhang, Jing and Diao, Yunfeng and Zhao, Shu. *ICML 2025*
 
+-   [RTMap] RTMap: Real-Time Recursive Mapping with Change Detection and Localization.
+    [[pdf]](https://arxiv.org/pdf/2507.00980)
+    -   Du, Yuheng and Yang, Sheng and Wang, Lingxuan and Hou, Zhenghua and Cai, Chengying and Tan, Zhitao and Chen, Mingxia and Huang, Shi-Sheng and Li, Qiang. *ICCV 2025*
+
+-   [Score] Coherent Online Road Topology Estimation and Reasoning with Standard-Definition Maps.
+    [[pdf]](https://arxiv.org/pdf/2507.01397v2)
+    -   Pham, Khanh Son and Witte, Christian and Behley, Jens and Betz, Johannes and Stachniss, Cyrill. *arXiv 2025*
+
+-   [RoboMap] What Really Matters for Robust Multi-Sensor HD Map Construction?.
+    [[pdf]](https://arxiv.org/pdf/2507.01484v1)
+    -   Hao, Xiaoshuai and Zhao, Yuting and Ji, Yuheng and Dai, Luanyuan and Hao, Peng and Li, Dingzhe and Cheng, Shuai and Yin, Rong. *arXiv 2025*
+
+-   [MAT] Driving by Hybrid Navigation: An Online HD-SD Map Association Framework and Benchmark for Autonomous Vehicles.
+    [[pdf]](https://arxiv.org/pdf/2507.07487v2)
+    [[code]](https://github.com/WallelWan/OMA-MAT)
+    -   Wan, Jiaxu and Wang, Xu and Chang, Xinyuan and Pan, Zheng and Xu, Mu and Xie, Mengwei and Liu, Xinran and Yuan, Ding. *arXiv 2025*
+
+-   Multimodal HD Mapping for Intersections by Intelligent Roadside Units.
+    [[pdf]](https://arxiv.org/pdf/2507.08903v1)
+    -   Chen, Zhongzhang and Fan, Miao and Xu, Shengtong and Yang, Mengmeng and Jiang, Kun and Liu, Xiangzeng and Xiong, Haoyi. *arXiv 2025*
+
+-   Delving into Mapping Uncertainty for Mapless Trajectory Prediction.
+    [[pdf]](https://arxiv.org/pdf/2507.18498v1)
+    [[code]](https://github.com/Ethan-Zheng136/Map-Uncertainty-for-Trajectory-Prediction)
+    -   Zhang, Zongzheng and Qiu, Xuchong and Zhang, Boran and Zheng, Guantian and Gu, Xunjiang and Chi, Guoxuan and Gao, Huan-ang and Wang, Leichen and Liu, Ziming and Li, Xinrun and Gilitschenski, Igor and Li, Hongyang and Zhao, Hang and Zhao, Hao. *arXiv 2025*
+
+-   [MambaMap] MambaMap: Online Vectorized HD Map Construction using State Space Model.
+    [[pdf]](https://arxiv.org/pdf/2507.20224v1)
+    -   Yang, Ruizi and Liu, Xiaolu and Chen, Junbo and Zhu, Jianke. *arXiv 2025*
+
+-   [MapDiffusion] MapDiffusion: Generative Diffusion for Vectorized Online HD Map Construction and Uncertainty Estimation in Autonomous Driving.
+    [[pdf]](https://arxiv.org/pdf/2507.21423v1)
+    -   Monninger, Thomas and Zhang, Zihan and Mo, Zhipeng and Anwar, Md Zafar and Staab, Steffen and Ding, Sihao. *arXiv 2025*
+
+-   [RelMap] RelMap: Enhancing Online Map Construction with Class-Aware Spatial Relation and Semantic Priors.
+    [[pdf]](https://arxiv.org/abs/2507.21567)
+    -   Cai, Tianhui and Zhang, Yun and Zhou, Zewei and Huang, Zhiyu and Ma, Jiaqi. *arXiv 2025*
+
+-   [PriorFusion] PriorFusion: Unified Integration of Priors for Robust Road Perception in Autonomous Driving.
+    [[pdf]](https://arxiv.org/abs/2507.23309)
+    -   Tang, Xuewei and Yang, Mengmeng and Wen, Tuopu and Jia, Peijin and Cui, Le and Luo, Mingshan and Sheng, Kehua and Zhang, Bo and Jiang, Kun and Yang, Diange. *arXiv 2025*
+
+-   [MapKD] MapKD: Unlocking Prior Knowledge with Cross - Modal Distillation for Efficient Online HD Map Construction.
+    [[pdf]](https://arxiv.org/abs/2508.15653)
+    [[code]](https://github.com/2004yan/MapKD2026)
+    -   Yan, Ziyang and Li, Ruikai and Cui, Zhiyong and Li, Bohan and Jiang, Han and Ren, Yilong and Li, Aoyong and Li, Zhenning and Wen, Sijia and Yu, Haiyang. *arXiv 2025*
+
+-   [PseudoMapTrainer] PseudoMapTrainer: Learning Online Mapping without HD Maps.
+    [[pdf]](https://arxiv.org/abs/2508.18788)
+    [[code]](https://github.com/boschresearch/PseudoMapTrainer)
+    -   Löwens, Christian and Funke, Thorben and Xie, Jingchao and Condurache, Alexandru Paul. *arXiv 2025*
+
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
