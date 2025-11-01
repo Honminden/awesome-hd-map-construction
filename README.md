@@ -724,7 +724,7 @@ Example:
 -   [SeqGrowGraph] SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions.
     [[pdf]](https://arxiv.org/pdf/2507.04822)
     [[code]](https://github.com/MIV-XJTU/SeqGrowGraph)
-    -   Xie, Mengwei and Zeng, Shuang and Chang, Xinyuan and Liu, Xinran and Pan, Zheng and Xu, Mu and Wei, Xing. *ICCV 2025*
+    -   Xie, Mengwei and Zeng, Shuang and Chang, Xinyuan and Liu, Xinran and Pan, Zheng and Xu, Mu and Wei, Xing. *ICCV 2025*
 
 ## Misc
 -   [MapLite 2.0] MapLite 2.0: Online HD Map Inference Using a Prior SD Map.
