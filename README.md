@@ -34,18 +34,19 @@ Example:
     - [2022](#2022)
     - [2023](#2023)
     - [2024](#2024)
+    - [2025](#2025)
   - [Online HD map construction](#online-hd-map-construction)
     - [2021](#2021-1)
     - [2022](#2022-1)
     - [2023](#2023-1)
     - [2024](#2024-1)
-    - [2025](#2025)
+    - [2025](#2025-1)
   - [HD map crowdsourcing](#hd-map-crowdsourcing)
     - [2017](#2017)
     - [2020](#2020-1)
     - [2023](#2023-2)
     - [2024](#2024-2)
-    - [2025](#2025-1)
+    - [2025](#2025-2)
   - [HD map construction with human efforts](#hd-map-construction-with-human-efforts)
   - [Lane detection](#lane-detection)
   - [Misc](#misc)
@@ -128,6 +129,11 @@ Example:
 -   Online High-Definition Map Construction for Autonomous Vehicles: A Comprehensive Survey.
     [[pdf]](https://www.preprints.org/manuscript/202411.1810/v1)
     -   Lyu, Hongyu and Perez, Julie Stephany Berrio and Huang, Yaoqi and Li, Kunming and Shan, Mao and Worrall, Stewart. *Journal of Sensor and Actuator Networks 2025*
+
+### 2025
+-   Maps for Autonomous Driving: Full-process Survey and Frontiers.
+    [[pdf]](https://arxiv.org/pdf/2509.12632)
+    -   Chen, Pengxin and Luo, Zhipeng and Jiang, Xiaoqi and Yin, Zhangcai and Li, Jonathan. *arXiv 2025*
 
 ## Online HD map construction
 ### 2021
@@ -580,22 +586,56 @@ Example:
     -   Monninger, Thomas and Zhang, Zihan and Mo, Zhipeng and Anwar, Md Zafar and Staab, Steffen and Ding, Sihao. *arXiv 2025*
 
 -   [RelMap] RelMap: Enhancing Online Map Construction with Class-Aware Spatial Relation and Semantic Priors.
-    [[pdf]](https://arxiv.org/abs/2507.21567)
+    [[pdf]](https://arxiv.org/pdf/2507.21567)
     -   Cai, Tianhui and Zhang, Yun and Zhou, Zewei and Huang, Zhiyu and Ma, Jiaqi. *arXiv 2025*
 
 -   [PriorFusion] PriorFusion: Unified Integration of Priors for Robust Road Perception in Autonomous Driving.
-    [[pdf]](https://arxiv.org/abs/2507.23309)
+    [[pdf]](https://arxiv.org/pdf/2507.23309)
     -   Tang, Xuewei and Yang, Mengmeng and Wen, Tuopu and Jia, Peijin and Cui, Le and Luo, Mingshan and Sheng, Kehua and Zhang, Bo and Jiang, Kun and Yang, Diange. *arXiv 2025*
 
 -   [MapKD] MapKD: Unlocking Prior Knowledge with Cross - Modal Distillation for Efficient Online HD Map Construction.
-    [[pdf]](https://arxiv.org/abs/2508.15653)
+    [[pdf]](https://arxiv.org/pdf/2508.15653)
     [[code]](https://github.com/2004yan/MapKD2026)
     -   Yan, Ziyang and Li, Ruikai and Cui, Zhiyong and Li, Bohan and Jiang, Han and Ren, Yilong and Li, Aoyong and Li, Zhenning and Wen, Sijia and Yu, Haiyang. *arXiv 2025*
 
 -   [PseudoMapTrainer] PseudoMapTrainer: Learning Online Mapping without HD Maps.
-    [[pdf]](https://arxiv.org/abs/2508.18788)
+    [[pdf]](https://arxiv.org/pdf/2508.18788)
     [[code]](https://github.com/boschresearch/PseudoMapTrainer)
     -   Löwens, Christian and Funke, Thorben and Xie, Jingchao and Condurache, Alexandru Paul. *arXiv 2025*
+
+-   Mapping like a Skeptic: Probabilistic BEV Projection for Online HD Mapping.
+    [[pdf]](https://arxiv.org/pdf/2508.21689)
+    -   Erdoğan, Fatih and Barın, Merve Rabia and Güney, Fatma. *BMVC 2025*
+
+-   Asymmetry Vulnerability and Physical Attacks on Online Map Construction for Autonomous Driving.
+    [[pdf]](https://arxiv.org/pdf/2509.06071)
+    -   Lou, Yang and Hu, Haibo and Song, Qun and Xu, Qian and Zhu, Yi and Tan, Rui and Lee, Wei-Bin and Wang, Jianping. *CCS 2025*
+
+-   [ArgoTweak] ArgoTweak: Towards Self-Updating HD Maps through Structured Priors.
+    [[pdf]](https://arxiv.org/pdf/2509.08764)
+    [[code]](https://kth-rpl.github.io/ArgoTweak/)
+    -   Wild, Lena and Valencia, Rafael and Jensfelt, Patric. *ICCV 2025*
+
+-   [PAMR] Persistent Autoregressive Mapping with Traffic Rules for Autonomous Driving.
+    [[pdf]](https://arxiv.org/pdf/2509.22756)
+    -   Liang, Shiyi and Chang, Xinyuan and Wu, Changjie and Yan, Huiyuan and Bai, Yifan and Liu, Xinran and Zhang, Hang and Yuan, Yujian and Zeng, Shuang and Xu, Mu and Wei, Xing. *arXiv 2025*
+
+-   Online Mapping for Autonomous Driving: Addressing Sensor Generalization and Dynamic Map Updates in Campus Environments.
+    [[pdf]](https://arxiv.org/pdf/2509.25542)
+    -   Zhang, Zihan and Ravichandran, Abhijit and Korti, Pragnya and Wang, Luobin and Christensen, Henrik I. *ISER 2025*
+
+-   [MapGR] Learning Global Representation from Queries for Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2510.06969)
+    -   Qiu, Shoumeng and Li, Xinrun and Long, Yang and Xue, Xiangyang and Ojha, Varun and Pu, Jian. *arXiv 2025*
+
+-   Stability Under Scrutiny: Benchmarking Representation Paradigms for Online HD Mapping.
+    [[pdf]](https://arxiv.org/pdf/2510.10660)
+    -   Shan, Hao and Li, Ruikai and Jiang, Han and Fan, Yizhe and Yan, Ziyang and Li, Bohan and Hao, Xiaoshuai and Zhao, Hao and Cui, Zhiyong and Ren, Yilong and Yu, Haiyang. *arXiv 2025*
+
+-   [DAMap] DAMap: Distance-aware MapNet for High Quality HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2510.22675)
+    [[code]](https://github.com/jpdong-xjtu/DAMap)
+    -   Dong, Jinpeng and Li, Chen and Lin, Yutong and Fu, Jingwen and Zhou, Sanping and Zheng, Nanning. *ICCV 2025*
 
 ## HD map crowdsourcing
 ### 2017
