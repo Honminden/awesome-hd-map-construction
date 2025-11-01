@@ -604,38 +604,38 @@ Example:
     -   Löwens, Christian and Funke, Thorben and Xie, Jingchao and Condurache, Alexandru Paul. *arXiv 2025*
 
 -   Mapping like a Skeptic: Probabilistic BEV Projection for Online HD Mapping.
-    [[pdf]](https://arxiv.org/pdf/2508.21689)
-    -   Erdoğan, Fatih and Barın, Merve Rabia and Güney, Fatma. *BMVC 2025*
+    [[pdf]](https://arxiv.org/pdf/2508.21689)
+    -   Erdoğan, Fatih and Barın, Merve Rabia and Güney, Fatma. *BMVC 2025*
 
 -   Asymmetry Vulnerability and Physical Attacks on Online Map Construction for Autonomous Driving.
-    [[pdf]](https://arxiv.org/pdf/2509.06071)
-    -   Lou, Yang and Hu, Haibo and Song, Qun and Xu, Qian and Zhu, Yi and Tan, Rui and Lee, Wei-Bin and Wang, Jianping. *CCS 2025*
+    [[pdf]](https://arxiv.org/pdf/2509.06071)
+    -   Lou, Yang and Hu, Haibo and Song, Qun and Xu, Qian and Zhu, Yi and Tan, Rui and Lee, Wei-Bin and Wang, Jianping. *CCS 2025*
 
 -   [ArgoTweak] ArgoTweak: Towards Self-Updating HD Maps through Structured Priors.
-    [[pdf]](https://arxiv.org/pdf/2509.08764)
-    [[code]](https://kth-rpl.github.io/ArgoTweak/)
-    -   Wild, Lena and Valencia, Rafael and Jensfelt, Patric. *ICCV 2025*
+    [[pdf]](https://arxiv.org/pdf/2509.08764)
+    [[code]](https://kth-rpl.github.io/ArgoTweak/)
+    -   Wild, Lena and Valencia, Rafael and Jensfelt, Patric. *ICCV 2025*
 
 -   [PAMR] Persistent Autoregressive Mapping with Traffic Rules for Autonomous Driving.
-    [[pdf]](https://arxiv.org/pdf/2509.22756)
-    -   Liang, Shiyi and Chang, Xinyuan and Wu, Changjie and Yan, Huiyuan and Bai, Yifan and Liu, Xinran and Zhang, Hang and Yuan, Yujian and Zeng, Shuang and Xu, Mu and Wei, Xing. *arXiv 2025*
+    [[pdf]](https://arxiv.org/pdf/2509.22756)
+    -   Liang, Shiyi and Chang, Xinyuan and Wu, Changjie and Yan, Huiyuan and Bai, Yifan and Liu, Xinran and Zhang, Hang and Yuan, Yujian and Zeng, Shuang and Xu, Mu and Wei, Xing. *arXiv 2025*
 
 -   Online Mapping for Autonomous Driving: Addressing Sensor Generalization and Dynamic Map Updates in Campus Environments.
-    [[pdf]](https://arxiv.org/pdf/2509.25542)
-    -   Zhang, Zihan and Ravichandran, Abhijit and Korti, Pragnya and Wang, Luobin and Christensen, Henrik I. *ISER 2025*
+    [[pdf]](https://arxiv.org/pdf/2509.25542)
+    -   Zhang, Zihan and Ravichandran, Abhijit and Korti, Pragnya and Wang, Luobin and Christensen, Henrik I. *ISER 2025*
 
 -   [MapGR] Learning Global Representation from Queries for Vectorized HD Map Construction.
-    [[pdf]](https://arxiv.org/pdf/2510.06969)
-    -   Qiu, Shoumeng and Li, Xinrun and Long, Yang and Xue, Xiangyang and Ojha, Varun and Pu, Jian. *arXiv 2025*
+    [[pdf]](https://arxiv.org/pdf/2510.06969)
+    -   Qiu, Shoumeng and Li, Xinrun and Long, Yang and Xue, Xiangyang and Ojha, Varun and Pu, Jian. *arXiv 2025*
 
 -   Stability Under Scrutiny: Benchmarking Representation Paradigms for Online HD Mapping.
-    [[pdf]](https://arxiv.org/pdf/2510.10660)
-    -   Shan, Hao and Li, Ruikai and Jiang, Han and Fan, Yizhe and Yan, Ziyang and Li, Bohan and Hao, Xiaoshuai and Zhao, Hao and Cui, Zhiyong and Ren, Yilong and Yu, Haiyang. *arXiv 2025*
+    [[pdf]](https://arxiv.org/pdf/2510.10660)
+    -   Shan, Hao and Li, Ruikai and Jiang, Han and Fan, Yizhe and Yan, Ziyang and Li, Bohan and Hao, Xiaoshuai and Zhao, Hao and Cui, Zhiyong and Ren, Yilong and Yu, Haiyang. *arXiv 2025*
 
 -   [DAMap] DAMap: Distance-aware MapNet for High Quality HD Map Construction.
-    [[pdf]](https://arxiv.org/pdf/2510.22675)
-    [[code]](https://github.com/jpdong-xjtu/DAMap)
-    -   Dong, Jinpeng and Li, Chen and Lin, Yutong and Fu, Jingwen and Zhou, Sanping and Zheng, Nanning. *ICCV 2025*
+    [[pdf]](https://arxiv.org/pdf/2510.22675)
+    [[code]](https://github.com/jpdong-xjtu/DAMap)
+    -   Dong, Jinpeng and Li, Chen and Lin, Yutong and Fu, Jingwen and Zhou, Sanping and Zheng, Nanning. *ICCV 2025*
 
 ## HD map crowdsourcing
 ### 2017
