@@ -48,7 +48,7 @@ Example:
     - [2024](#2024-2)
     - [2025](#2025-2)
   - [HD map construction with human efforts](#hd-map-construction-with-human-efforts)
-  - [Lane detection](#lane-detection)
+  - [Lane-level map construction](#lane-level-map-construction)
   - [Misc](#misc)
   - [News](#news)
   - [Talks](#talks)
@@ -702,7 +702,7 @@ Example:
     [[pdf]](https://isprs-annals.copernicus.org/articles/X-4-2024/117/2024/isprs-annals-X-4-2024-117-2024.pdf)
     -   Gao, Huimin and Zhong, Ruofei and Qi, Xingyu and Xie, Donghai and Sun, Zhenxing and Sun, Haili. *2024 ISPRS Annals*
 
-## Lane detection
+## Lane-level map construction
 -   [3D-LaneNet] 3D-LaneNet: End-to-End 3D Multiple Lane Detection.
     [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Garnett_3D-LaneNet_End-to-End_3D_Multiple_Lane_Detection_ICCV_2019_paper.pdf)
     -   Garnett, Noa and Cohen, Rafi and Pe'er, Tomer and Lahav, Roee and Levi, Dan. *ICCV 2019*
@@ -720,6 +720,11 @@ Example:
 -   [HDMapGen] HDMapGen: AHierarchical Graph Generative Model of High Definition Maps.
     [[pdf]](https://arxiv.org/pdf/2106.14880v1)
     -   Mi, Lu and Zhao, Hang and Nash, Charlie and Jin, Xiaohan and Gao, Jiyang and Sun, Chen and Schmid, Cordelia and Shavit, Nir and Chai, Yuning and Anguelov, Dragomir. *CVPR 2021*
+
+-   [SeqGrowGraph] SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions.
+    [[pdf]](https://arxiv.org/pdf/2507.04822)
+    [[code]](https://github.com/MIV-XJTU/SeqGrowGraph)
+    -   Xie, Mengwei and Zeng, Shuang and Chang, Xinyuan and Liu, Xinran and Pan, Zheng and Xu, Mu and Wei, Xing. *ICCV 2025*
 
 ## Misc
 -   [MapLite 2.0] MapLite 2.0: Online HD Map Inference Using a Prior SD Map.
