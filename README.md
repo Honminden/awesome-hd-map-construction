@@ -41,6 +41,7 @@ Example:
     - [2023](#2023-1)
     - [2024](#2024-1)
     - [2025](#2025-1)
+    - [2026](#2026)
   - [HD map crowdsourcing](#hd-map-crowdsourcing)
     - [2017](#2017)
     - [2020](#2020-1)
@@ -636,6 +637,32 @@ Example:
     [[pdf]](https://arxiv.org/pdf/2510.22675)
     [[code]](https://github.com/jpdong-xjtu/DAMap)
     -   Dong, Jinpeng and Li, Chen and Lin, Yutong and Fu, Jingwen and Zhou, Sanping and Zheng, Nanning. *ICCV 2025*
+
+-   [Polymap] Polymap: generating high definition map based on rasterized polygons.
+    [[pdf]](https://arxiv.org/pdf/2511.05944)
+    -   Gao, Shiyu and Jiang, Hao. *arXiv 2025*
+
+-   [MapRF] MapRF: Weakly Supervised Online HD Map Construction via NeRF-Guided Self-Training.     
+    [[pdf]](https://arxiv.org/pdf/2511.19527)
+    -   Lyu, Hongyu and Monninger, Thomas and Berrio Perez, Julie Stephany and Shan, Mao and Ming, Zhenxing and Worrall, Stewart. *arXiv 2025*
+
+-   [NavMapFusion] NavMapFusion: Diffusion-based Fusion of Navigation Maps for Online Vectorized HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2512.03317)
+    -   Monninger, Thomas and Zhang, Zihan and Staab, Steffen and Ding, Sihao. *WACV 2026*
+
+-   [SATMapTR] SATMapTR: Satellite Image Enhanced Online HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2512.11319)
+    -   Huang, Bingyuan and Zhao, Guanyi and Xu, Qian and Lou, Yang and Li, Yung-Hui and Wang, Jianping. *arXiv 2025*
+
+-   [AMap] AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2512.19150)
+    -   Li, Ruikai and Li, Xinrun and Xie, Mengwei and Shan, Hao and Qiu, Shoumeng and Chang, Xinyuan and Fan, Yizhe and Xiong, Feng and Jiang, Han and Ren, Yilong and Yu, Haiyang and Xu, Mu and Long, Yang and Ojha, Varun and Cui, Zhiyong. *arXiv 2025*
+
+### 2026
+-   [SatMap] SatMap: Revisiting Satellite Maps as Prior for Online HD Map Construction.
+    [[pdf]](https://arxiv.org/pdf/2601.10512)
+    [[code]](https://iv.ee.hm.edu/satmap/)
+    -   Mazumder, Kanak and Flohr, Fabian B. *arXiv 2026*
 
 ## HD map crowdsourcing
 ### 2017
