@@ -664,6 +664,9 @@ Example:
     [[code]](https://iv.ee.hm.edu/satmap/)
     -   Mazumder, Kanak and Flohr, Fabian B. *arXiv 2026*
 
+-   [FlexMap] FlexMap: Generalized HD Map Construction from Flexible Camera Configurations.
+    [[pdf]](https://arxiv.org/pdf/2601.22376)
+    -   Wang, Run and Zhou, Chaoyi and Salarpour, Amir and Liu, Xi and Cheng, Zhi-Qi and Luo, Feng and Pesé, Mert D. and Huang, Siyu. *arXiv 2026*
 ## HD map crowdsourcing
 ### 2017
 -   An end-to-end system for crowdsourced 3D maps for autonomous vehicles: The mapping component.
